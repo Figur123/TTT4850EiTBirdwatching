@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	306.0	309.0	0	15000	Eurasian Woodcock	eurwoo	0.8384	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	306.0
+2	Spectrogram 1	1	636.0	639.0	0	15000	Eurasian Bullfinch	eurbul	0.5045	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	636.0
+3	Spectrogram 1	1	648.0	651.0	0	15000	Eurasian Bullfinch	eurbul	0.8143	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	648.0
+4	Spectrogram 1	1	651.0	654.0	0	15000	Eurasian Bullfinch	eurbul	0.6873	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	651.0
+5	Spectrogram 1	1	663.0	666.0	0	15000	Eurasian Bullfinch	eurbul	0.7513	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	663.0
+6	Spectrogram 1	1	690.0	693.0	0	15000	Long-eared Owl	loeowl	0.7175	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	690.0
+7	Spectrogram 1	1	702.0	705.0	0	15000	Long-eared Owl	loeowl	0.9058	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	702.0
+8	Spectrogram 1	1	702.0	705.0	0	15000	Eurasian Bullfinch	eurbul	0.8153	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	702.0
+9	Spectrogram 1	1	714.0	717.0	0	15000	Eurasian Bullfinch	eurbul	0.5830	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	714.0
+10	Spectrogram 1	1	717.0	720.0	0	15000	Eurasian Bullfinch	eurbul	0.8804	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	717.0
+11	Spectrogram 1	1	726.0	729.0	0	15000	Eurasian Bullfinch	eurbul	0.8865	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	726.0
+12	Spectrogram 1	1	753.0	756.0	0	15000	European Golden-Plover	eugplo	0.6152	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	753.0
+13	Spectrogram 1	1	765.0	768.0	0	15000	Eurasian Bullfinch	eurbul	0.6546	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	765.0
+14	Spectrogram 1	1	888.0	891.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.8394	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	888.0
+15	Spectrogram 1	1	888.0	891.0	0	15000	Long-eared Owl	loeowl	0.5628	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	888.0
+16	Spectrogram 1	1	891.0	894.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.7857	.\sounds\realsound\red\red1\20260214\20260214_090000.WAV	891.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	21.0	24.0	0	15000	Goldcrest	goldcr1	0.5991	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	21.0
+2	Spectrogram 1	1	36.0	39.0	0	15000	Goldcrest	goldcr1	0.8566	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	36.0
+3	Spectrogram 1	1	612.0	615.0	0	15000	Willow Tit	wiltit1	0.6396	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	612.0
+4	Spectrogram 1	1	738.0	741.0	0	15000	Willow Tit	wiltit1	0.9428	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	738.0
+5	Spectrogram 1	1	741.0	744.0	0	15000	Willow Tit	wiltit1	0.8874	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	741.0
+6	Spectrogram 1	1	747.0	750.0	0	15000	Willow Tit	wiltit1	0.5535	.\sounds\realsound\white\white2\20260207\20260207_100000.WAV	747.0

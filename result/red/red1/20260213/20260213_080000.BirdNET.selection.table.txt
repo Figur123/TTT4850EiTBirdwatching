@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	384.0	387.0	0	15000	Crested Tit	cretit2	0.9960	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	384.0
+2	Spectrogram 1	1	762.0	765.0	0	15000	Carrion Crow	carcro1	0.5536	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	762.0
+3	Spectrogram 1	1	804.0	807.0	0	15000	Northern Lapwing	norlap	0.6035	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	804.0
+4	Spectrogram 1	1	804.0	807.0	0	15000	Eurasian Nuthatch	eurnut2	0.5067	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	804.0
+5	Spectrogram 1	1	834.0	837.0	0	15000	Song Thrush	sonthr1	0.8976	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	834.0
+6	Spectrogram 1	1	885.0	888.0	0	15000	Great Tit	gretit1	0.8321	.\sounds\realsound\red\red1\20260213\20260213_080000.WAV	885.0

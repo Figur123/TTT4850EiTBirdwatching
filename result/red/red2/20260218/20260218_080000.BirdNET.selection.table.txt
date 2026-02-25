@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	582.0	585.0	0	15000	Goldcrest	goldcr1	0.8524	.\sounds\realsound\red\red2\20260218\20260218_080000.WAV	582.0
+2	Spectrogram 1	1	786.0	789.0	0	15000	Song Thrush	sonthr1	0.6413	.\sounds\realsound\red\red2\20260218\20260218_080000.WAV	786.0
+3	Spectrogram 1	1	846.0	849.0	0	15000	Goldcrest	goldcr1	0.7969	.\sounds\realsound\red\red2\20260218\20260218_080000.WAV	846.0

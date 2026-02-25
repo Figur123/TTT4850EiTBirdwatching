@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	15000	Goldcrest	goldcr1	0.5317	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	12.0
+2	Spectrogram 1	1	42.0	45.0	0	15000	Eurasian Blue Tit	blutit	0.5487	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	42.0
+3	Spectrogram 1	1	219.0	222.0	0	15000	Eurasian Treecreeper	eurtre1	0.6798	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	219.0
+4	Spectrogram 1	1	225.0	228.0	0	15000	Eurasian Treecreeper	eurtre1	0.6656	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	225.0
+5	Spectrogram 1	1	240.0	243.0	0	15000	Eurasian Treecreeper	eurtre1	0.5846	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	240.0
+6	Spectrogram 1	1	255.0	258.0	0	15000	Eurasian Treecreeper	eurtre1	0.8359	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	255.0
+7	Spectrogram 1	1	258.0	261.0	0	15000	Eurasian Treecreeper	eurtre1	0.8722	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	258.0
+8	Spectrogram 1	1	261.0	264.0	0	15000	Eurasian Treecreeper	eurtre1	0.5800	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	261.0
+9	Spectrogram 1	1	270.0	273.0	0	15000	Eurasian Treecreeper	eurtre1	0.5491	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	270.0
+10	Spectrogram 1	1	300.0	303.0	0	15000	Goldcrest	goldcr1	0.5971	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	300.0
+11	Spectrogram 1	1	423.0	426.0	0	15000	Eurasian Treecreeper	eurtre1	0.5010	.\sounds\realsound\red\red4\20260206\20260206_090000.WAV	423.0

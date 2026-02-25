@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0.0	3.0	0	15000	Great Tit	gretit1	0.7532	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	0.0
+2	Spectrogram 1	1	3.0	6.0	0	15000	Great Tit	gretit1	0.6965	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	3.0
+3	Spectrogram 1	1	6.0	9.0	0	15000	Great Tit	gretit1	0.7879	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	6.0
+4	Spectrogram 1	1	9.0	12.0	0	15000	Great Tit	gretit1	0.5756	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	9.0
+5	Spectrogram 1	1	15.0	18.0	0	15000	Great Tit	gretit1	0.6192	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	15.0
+6	Spectrogram 1	1	21.0	24.0	0	15000	Great Tit	gretit1	0.7906	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	21.0
+7	Spectrogram 1	1	24.0	27.0	0	15000	Great Tit	gretit1	0.6245	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	24.0
+8	Spectrogram 1	1	27.0	30.0	0	15000	Great Tit	gretit1	0.7901	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	27.0
+9	Spectrogram 1	1	30.0	33.0	0	15000	Great Tit	gretit1	0.7834	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	30.0
+10	Spectrogram 1	1	36.0	39.0	0	15000	Great Tit	gretit1	0.8313	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	36.0
+11	Spectrogram 1	1	42.0	45.0	0	15000	Great Tit	gretit1	0.7091	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	42.0
+12	Spectrogram 1	1	45.0	48.0	0	15000	Great Tit	gretit1	0.8510	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	45.0
+13	Spectrogram 1	1	48.0	51.0	0	15000	Great Tit	gretit1	0.7183	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	48.0
+14	Spectrogram 1	1	51.0	54.0	0	15000	Great Tit	gretit1	0.5882	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	51.0
+15	Spectrogram 1	1	54.0	57.0	0	15000	Great Tit	gretit1	0.5811	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	54.0
+16	Spectrogram 1	1	57.0	60.0	0	15000	Great Tit	gretit1	0.6961	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	57.0
+17	Spectrogram 1	1	60.0	63.0	0	15000	Great Tit	gretit1	0.6747	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	60.0
+18	Spectrogram 1	1	63.0	66.0	0	15000	Great Tit	gretit1	0.5564	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	63.0
+19	Spectrogram 1	1	72.0	75.0	0	15000	Great Tit	gretit1	0.5147	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	72.0
+20	Spectrogram 1	1	96.0	99.0	0	15000	Great Tit	gretit1	0.5391	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	96.0
+21	Spectrogram 1	1	132.0	135.0	0	15000	Great Tit	gretit1	0.5394	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	132.0
+22	Spectrogram 1	1	138.0	141.0	0	15000	Great Tit	gretit1	0.5309	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	138.0
+23	Spectrogram 1	1	168.0	171.0	0	15000	Great Tit	gretit1	0.5356	.\sounds\realsound\red\red3\20260215\20260215_070000.WAV	168.0

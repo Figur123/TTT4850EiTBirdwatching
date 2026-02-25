@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	426.0	429.0	0	15000	Goldcrest	goldcr1	0.8729	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	426.0
+2	Spectrogram 1	1	432.0	435.0	0	15000	Goldcrest	goldcr1	0.7214	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	432.0
+3	Spectrogram 1	1	447.0	450.0	0	15000	Goldcrest	goldcr1	0.5540	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	447.0
+4	Spectrogram 1	1	450.0	453.0	0	15000	Goldcrest	goldcr1	0.6902	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	450.0
+5	Spectrogram 1	1	456.0	459.0	0	15000	Goldcrest	goldcr1	0.8685	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	456.0
+6	Spectrogram 1	1	468.0	471.0	0	15000	Goldcrest	goldcr1	0.8200	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	468.0
+7	Spectrogram 1	1	480.0	483.0	0	15000	Goldcrest	goldcr1	0.7871	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	480.0
+8	Spectrogram 1	1	504.0	507.0	0	15000	Goldcrest	goldcr1	0.5230	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	504.0
+9	Spectrogram 1	1	636.0	639.0	0	15000	Great Bittern	grebit1	0.7045	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	636.0
+10	Spectrogram 1	1	645.0	648.0	0	15000	Common Raven	comrav	0.8037	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	645.0
+11	Spectrogram 1	1	660.0	663.0	0	15000	Common Raven	comrav	0.5501	.\sounds\realsound\red\red3\20260209\20260209_110000.WAV	660.0

@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	78.0	81.0	0	15000	Goldcrest	goldcr1	0.5413	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	78.0
+2	Spectrogram 1	1	159.0	162.0	0	15000	Goldcrest	goldcr1	0.5429	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	159.0
+3	Spectrogram 1	1	174.0	177.0	0	15000	Goldcrest	goldcr1	0.6289	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	174.0
+4	Spectrogram 1	1	177.0	180.0	0	15000	Goldcrest	goldcr1	0.7292	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	177.0
+5	Spectrogram 1	1	186.0	189.0	0	15000	Goldcrest	goldcr1	0.7299	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	186.0
+6	Spectrogram 1	1	189.0	192.0	0	15000	Coal Tit	coatit2	0.5370	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	189.0
+7	Spectrogram 1	1	192.0	195.0	0	15000	Coal Tit	coatit2	0.5518	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	192.0
+8	Spectrogram 1	1	198.0	201.0	0	15000	Goldcrest	goldcr1	0.9202	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	198.0
+9	Spectrogram 1	1	201.0	204.0	0	15000	Eurasian Blue Tit	blutit	0.6497	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	201.0
+10	Spectrogram 1	1	222.0	225.0	0	15000	Willow Tit	wiltit1	0.5103	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	222.0
+11	Spectrogram 1	1	240.0	243.0	0	15000	Goldcrest	goldcr1	0.7044	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	240.0
+12	Spectrogram 1	1	246.0	249.0	0	15000	Coal Tit	coatit2	0.6732	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	246.0
+13	Spectrogram 1	1	255.0	258.0	0	15000	Eurasian Blue Tit	blutit	0.7127	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	255.0
+14	Spectrogram 1	1	279.0	282.0	0	15000	Goldcrest	goldcr1	0.5324	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	279.0
+15	Spectrogram 1	1	285.0	288.0	0	15000	Goldcrest	goldcr1	0.7867	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	285.0
+16	Spectrogram 1	1	291.0	294.0	0	15000	Goldcrest	goldcr1	0.5183	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	291.0
+17	Spectrogram 1	1	297.0	300.0	0	15000	Goldcrest	goldcr1	0.8415	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	297.0
+18	Spectrogram 1	1	315.0	318.0	0	15000	Goldcrest	goldcr1	0.5715	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	315.0
+19	Spectrogram 1	1	327.0	330.0	0	15000	Goldcrest	goldcr1	0.5804	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	327.0
+20	Spectrogram 1	1	330.0	333.0	0	15000	Goldcrest	goldcr1	0.7338	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	330.0
+21	Spectrogram 1	1	360.0	363.0	0	15000	Goldcrest	goldcr1	0.5474	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	360.0
+22	Spectrogram 1	1	369.0	372.0	0	15000	Goldcrest	goldcr1	0.7894	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	369.0
+23	Spectrogram 1	1	375.0	378.0	0	15000	Goldcrest	goldcr1	0.5428	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	375.0
+24	Spectrogram 1	1	384.0	387.0	0	15000	Goldcrest	goldcr1	0.6510	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	384.0
+25	Spectrogram 1	1	387.0	390.0	0	15000	Goldcrest	goldcr1	0.7421	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	387.0
+26	Spectrogram 1	1	393.0	396.0	0	15000	Goldcrest	goldcr1	0.7218	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	393.0
+27	Spectrogram 1	1	624.0	627.0	0	15000	European Golden-Plover	eugplo	0.6358	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	624.0
+28	Spectrogram 1	1	702.0	705.0	0	15000	Eurasian Bullfinch	eurbul	0.6499	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	702.0
+29	Spectrogram 1	1	768.0	771.0	0	15000	Eurasian Bullfinch	eurbul	0.7256	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	768.0
+30	Spectrogram 1	1	771.0	774.0	0	15000	Eurasian Bullfinch	eurbul	0.8965	.\sounds\realsound\red\red2\20260214\20260214_080000.WAV	771.0

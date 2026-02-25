@@ -1,0 +1,80 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0.0	3.0	0	15000	Goldcrest	goldcr1	0.7754	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	0.0
+2	Spectrogram 1	1	15.0	18.0	0	15000	Crested Tit	cretit2	0.9084	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	15.0
+3	Spectrogram 1	1	18.0	21.0	0	15000	Crested Tit	cretit2	0.8527	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	18.0
+4	Spectrogram 1	1	21.0	24.0	0	15000	Crested Tit	cretit2	0.9109	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	21.0
+5	Spectrogram 1	1	24.0	27.0	0	15000	Crested Tit	cretit2	0.8962	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	24.0
+6	Spectrogram 1	1	33.0	36.0	0	15000	Crested Tit	cretit2	0.9205	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	33.0
+7	Spectrogram 1	1	39.0	42.0	0	15000	Crested Tit	cretit2	0.8365	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	39.0
+8	Spectrogram 1	1	42.0	45.0	0	15000	Goldcrest	goldcr1	0.5564	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	42.0
+9	Spectrogram 1	1	63.0	66.0	0	15000	Crested Tit	cretit2	0.7243	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	63.0
+10	Spectrogram 1	1	105.0	108.0	0	15000	Goldcrest	goldcr1	0.5598	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	105.0
+11	Spectrogram 1	1	114.0	117.0	0	15000	Crested Tit	cretit2	0.5506	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	114.0
+12	Spectrogram 1	1	126.0	129.0	0	15000	Crested Tit	cretit2	0.5011	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	126.0
+13	Spectrogram 1	1	144.0	147.0	0	15000	Goldcrest	goldcr1	0.5846	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	144.0
+14	Spectrogram 1	1	228.0	231.0	0	15000	Coal Tit	coatit2	0.6595	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	228.0
+15	Spectrogram 1	1	231.0	234.0	0	15000	Goldcrest	goldcr1	0.5589	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	231.0
+16	Spectrogram 1	1	249.0	252.0	0	15000	Coal Tit	coatit2	0.6168	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	249.0
+17	Spectrogram 1	1	252.0	255.0	0	15000	Goldcrest	goldcr1	0.5116	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	252.0
+18	Spectrogram 1	1	297.0	300.0	0	15000	Eurasian Nuthatch	eurnut2	0.7527	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	297.0
+19	Spectrogram 1	1	369.0	372.0	0	15000	Eurasian Treecreeper	eurtre1	0.5210	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	369.0
+20	Spectrogram 1	1	384.0	387.0	0	15000	Coal Tit	coatit2	0.7101	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	384.0
+21	Spectrogram 1	1	387.0	390.0	0	15000	Red-breasted Flycatcher	rebfly	0.6008	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	387.0
+22	Spectrogram 1	1	390.0	393.0	0	15000	Coal Tit	coatit2	0.5555	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	390.0
+23	Spectrogram 1	1	393.0	396.0	0	15000	Coal Tit	coatit2	0.7533	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	393.0
+24	Spectrogram 1	1	399.0	402.0	0	15000	Coal Tit	coatit2	0.6993	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	399.0
+25	Spectrogram 1	1	411.0	414.0	0	15000	Coal Tit	coatit2	0.5047	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	411.0
+26	Spectrogram 1	1	435.0	438.0	0	15000	Coal Tit	coatit2	0.5798	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	435.0
+27	Spectrogram 1	1	444.0	447.0	0	15000	Coal Tit	coatit2	0.5218	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	444.0
+28	Spectrogram 1	1	465.0	468.0	0	15000	Great Tit	gretit1	0.5191	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	465.0
+29	Spectrogram 1	1	483.0	486.0	0	15000	Eurasian Blue Tit	blutit	0.6555	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	483.0
+30	Spectrogram 1	1	486.0	489.0	0	15000	Eurasian Blue Tit	blutit	0.6548	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	486.0
+31	Spectrogram 1	1	492.0	495.0	0	15000	Eurasian Blue Tit	blutit	0.6900	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	492.0
+32	Spectrogram 1	1	495.0	498.0	0	15000	Great Tit	gretit1	0.5706	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	495.0
+33	Spectrogram 1	1	504.0	507.0	0	15000	Eurasian Treecreeper	eurtre1	0.6999	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	504.0
+34	Spectrogram 1	1	513.0	516.0	0	15000	Coal Tit	coatit2	0.6252	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	513.0
+35	Spectrogram 1	1	531.0	534.0	0	15000	Eurasian Treecreeper	eurtre1	0.7718	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	531.0
+36	Spectrogram 1	1	540.0	543.0	0	15000	Coal Tit	coatit2	0.8396	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	540.0
+37	Spectrogram 1	1	549.0	552.0	0	15000	Coal Tit	coatit2	0.5115	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	549.0
+38	Spectrogram 1	1	555.0	558.0	0	15000	Coal Tit	coatit2	0.6930	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	555.0
+39	Spectrogram 1	1	567.0	570.0	0	15000	Eurasian Treecreeper	eurtre1	0.6959	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	567.0
+40	Spectrogram 1	1	573.0	576.0	0	15000	Coal Tit	coatit2	0.8280	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	573.0
+41	Spectrogram 1	1	576.0	579.0	0	15000	Coal Tit	coatit2	0.7037	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	576.0
+42	Spectrogram 1	1	585.0	588.0	0	15000	Eurasian Treecreeper	eurtre1	0.9249	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	585.0
+43	Spectrogram 1	1	591.0	594.0	0	15000	Coal Tit	coatit2	0.6096	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	591.0
+44	Spectrogram 1	1	594.0	597.0	0	15000	Coal Tit	coatit2	0.6052	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	594.0
+45	Spectrogram 1	1	597.0	600.0	0	15000	Coal Tit	coatit2	0.8298	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	597.0
+46	Spectrogram 1	1	609.0	612.0	0	15000	Coal Tit	coatit2	0.5400	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	609.0
+47	Spectrogram 1	1	642.0	645.0	0	15000	Coal Tit	coatit2	0.6178	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	642.0
+48	Spectrogram 1	1	657.0	660.0	0	15000	Coal Tit	coatit2	0.6527	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	657.0
+49	Spectrogram 1	1	666.0	669.0	0	15000	Eurasian Nuthatch	eurnut2	0.8544	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	666.0
+50	Spectrogram 1	1	669.0	672.0	0	15000	Eurasian Nuthatch	eurnut2	0.9748	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	669.0
+51	Spectrogram 1	1	672.0	675.0	0	15000	Eurasian Nuthatch	eurnut2	0.8466	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	672.0
+52	Spectrogram 1	1	675.0	678.0	0	15000	Eurasian Nuthatch	eurnut2	0.5324	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	675.0
+53	Spectrogram 1	1	678.0	681.0	0	15000	Eurasian Nuthatch	eurnut2	0.6275	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	678.0
+54	Spectrogram 1	1	681.0	684.0	0	15000	Eurasian Nuthatch	eurnut2	0.8962	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	681.0
+55	Spectrogram 1	1	735.0	738.0	0	15000	Willow Tit	wiltit1	0.5607	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	735.0
+56	Spectrogram 1	1	771.0	774.0	0	15000	Great Tit	gretit1	0.7885	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	771.0
+57	Spectrogram 1	1	783.0	786.0	0	15000	Coal Tit	coatit2	0.5175	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	783.0
+58	Spectrogram 1	1	789.0	792.0	0	15000	Coal Tit	coatit2	0.9304	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	789.0
+59	Spectrogram 1	1	795.0	798.0	0	15000	Coal Tit	coatit2	0.7512	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	795.0
+60	Spectrogram 1	1	798.0	801.0	0	15000	Coal Tit	coatit2	0.8945	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	798.0
+61	Spectrogram 1	1	801.0	804.0	0	15000	Coal Tit	coatit2	0.8945	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	801.0
+62	Spectrogram 1	1	804.0	807.0	0	15000	Coal Tit	coatit2	0.5902	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	804.0
+63	Spectrogram 1	1	816.0	819.0	0	15000	Coal Tit	coatit2	0.8911	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	816.0
+64	Spectrogram 1	1	822.0	825.0	0	15000	Coal Tit	coatit2	0.9643	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	822.0
+65	Spectrogram 1	1	825.0	828.0	0	15000	Coal Tit	coatit2	0.6430	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	825.0
+66	Spectrogram 1	1	837.0	840.0	0	15000	Coal Tit	coatit2	0.9014	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	837.0
+67	Spectrogram 1	1	840.0	843.0	0	15000	Coal Tit	coatit2	0.6253	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	840.0
+68	Spectrogram 1	1	843.0	846.0	0	15000	Coal Tit	coatit2	0.8871	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	843.0
+69	Spectrogram 1	1	855.0	858.0	0	15000	Coal Tit	coatit2	0.7159	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	855.0
+70	Spectrogram 1	1	867.0	870.0	0	15000	Coal Tit	coatit2	0.5944	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	867.0
+71	Spectrogram 1	1	873.0	876.0	0	15000	Coal Tit	coatit2	0.6767	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	873.0
+72	Spectrogram 1	1	876.0	879.0	0	15000	Goldcrest	goldcr1	0.5189	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	876.0
+73	Spectrogram 1	1	879.0	882.0	0	15000	Coal Tit	coatit2	0.7188	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	879.0
+74	Spectrogram 1	1	882.0	885.0	0	15000	Coal Tit	coatit2	0.7252	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	882.0
+75	Spectrogram 1	1	885.0	888.0	0	15000	Coal Tit	coatit2	0.8203	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	885.0
+76	Spectrogram 1	1	888.0	891.0	0	15000	Coal Tit	coatit2	0.5673	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	888.0
+77	Spectrogram 1	1	891.0	894.0	0	15000	Coal Tit	coatit2	0.8653	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	891.0
+78	Spectrogram 1	1	894.0	897.0	0	15000	Coal Tit	coatit2	0.8042	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	894.0
+79	Spectrogram 1	1	897.0	900.0	0	15000	Coal Tit	coatit2	0.6994	.\sounds\realsound\red\red3\20260215\20260215_080000.WAV	897.0

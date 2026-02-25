@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	351.0	354.0	0	15000	Great Bittern	grebit1	0.9263	.\sounds\realsound\red\red1\20260212\20260212_080000.WAV	351.0
+2	Spectrogram 1	1	411.0	414.0	0	15000	Common Raven	comrav	0.6502	.\sounds\realsound\red\red1\20260212\20260212_080000.WAV	411.0
+3	Spectrogram 1	1	537.0	540.0	0	15000	Mallard	mallar3	0.5687	.\sounds\realsound\red\red1\20260212\20260212_080000.WAV	537.0
+4	Spectrogram 1	1	561.0	564.0	0	15000	Mallard	mallar3	0.5014	.\sounds\realsound\red\red1\20260212\20260212_080000.WAV	561.0

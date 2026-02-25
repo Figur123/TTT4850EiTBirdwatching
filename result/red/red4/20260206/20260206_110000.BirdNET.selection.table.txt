@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	453.0	456.0	0	15000	Willow Tit	wiltit1	0.5520	.\sounds\realsound\red\red4\20260206\20260206_110000.WAV	453.0
+2	Spectrogram 1	1	552.0	555.0	0	15000	Willow Tit	wiltit1	0.7679	.\sounds\realsound\red\red4\20260206\20260206_110000.WAV	552.0
+3	Spectrogram 1	1	558.0	561.0	0	15000	Willow Tit	wiltit1	0.8966	.\sounds\realsound\red\red4\20260206\20260206_110000.WAV	558.0

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	69.0	72.0	0	15000	Goldcrest	goldcr1	0.6573	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	69.0
+2	Spectrogram 1	1	99.0	102.0	0	15000	Goldcrest	goldcr1	0.6358	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	99.0
+3	Spectrogram 1	1	108.0	111.0	0	15000	Goldcrest	goldcr1	0.8143	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	108.0
+4	Spectrogram 1	1	153.0	156.0	0	15000	Goldcrest	goldcr1	0.6176	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	153.0
+5	Spectrogram 1	1	228.0	231.0	0	15000	Goldcrest	goldcr1	0.5038	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	228.0
+6	Spectrogram 1	1	546.0	549.0	0	15000	Eurasian Bullfinch	eurbul	0.6173	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	546.0
+7	Spectrogram 1	1	555.0	558.0	0	15000	Eurasian Bullfinch	eurbul	0.6466	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	555.0
+8	Spectrogram 1	1	567.0	570.0	0	15000	Eurasian Bullfinch	eurbul	0.5602	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	567.0
+9	Spectrogram 1	1	570.0	573.0	0	15000	Eurasian Bullfinch	eurbul	0.6156	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	570.0
+10	Spectrogram 1	1	573.0	576.0	0	15000	Eurasian Bullfinch	eurbul	0.7367	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	573.0
+11	Spectrogram 1	1	576.0	579.0	0	15000	Eurasian Bullfinch	eurbul	0.6006	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	576.0
+12	Spectrogram 1	1	696.0	699.0	0	15000	Eurasian Bullfinch	eurbul	0.8376	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	696.0
+13	Spectrogram 1	1	726.0	729.0	0	15000	Black Woodpecker	blawoo1	0.6548	.\sounds\realsound\red\red3\20260211\20260211_070000.WAV	726.0

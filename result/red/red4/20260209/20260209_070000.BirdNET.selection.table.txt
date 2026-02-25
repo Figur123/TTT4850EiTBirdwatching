@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	246.0	249.0	0	15000	Eurasian Bullfinch	eurbul	0.5205	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	246.0
+2	Spectrogram 1	1	255.0	258.0	0	15000	Eurasian Bullfinch	eurbul	0.6455	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	255.0
+3	Spectrogram 1	1	303.0	306.0	0	15000	Eurasian Bullfinch	eurbul	0.6844	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	303.0
+4	Spectrogram 1	1	303.0	306.0	0	15000	Eurasian Dotterel	eurdot	0.5421	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	303.0
+5	Spectrogram 1	1	306.0	309.0	0	15000	Eurasian Bullfinch	eurbul	0.5265	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	306.0
+6	Spectrogram 1	1	309.0	312.0	0	15000	Eurasian Bullfinch	eurbul	0.5699	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	309.0
+7	Spectrogram 1	1	417.0	420.0	0	15000	Eurasian Bullfinch	eurbul	0.6297	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	417.0
+8	Spectrogram 1	1	420.0	423.0	0	15000	Eurasian Bullfinch	eurbul	0.8355	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	420.0
+9	Spectrogram 1	1	582.0	585.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.6856	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	582.0
+10	Spectrogram 1	1	849.0	852.0	0	15000	Goldcrest	goldcr1	0.8711	.\sounds\realsound\red\red4\20260209\20260209_070000.WAV	849.0

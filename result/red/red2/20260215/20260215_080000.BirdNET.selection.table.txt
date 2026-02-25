@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	288.0	291.0	0	15000	Eurasian Bullfinch	eurbul	0.7029	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	288.0
+2	Spectrogram 1	1	291.0	294.0	0	15000	Eurasian Bullfinch	eurbul	0.5124	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	291.0
+3	Spectrogram 1	1	468.0	471.0	0	15000	Coal Tit	coatit2	0.9395	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	468.0
+4	Spectrogram 1	1	483.0	486.0	0	15000	Coal Tit	coatit2	0.9199	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	483.0
+5	Spectrogram 1	1	489.0	492.0	0	15000	Coal Tit	coatit2	0.8635	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	489.0
+6	Spectrogram 1	1	495.0	498.0	0	15000	Coal Tit	coatit2	0.9616	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	495.0
+7	Spectrogram 1	1	498.0	501.0	0	15000	Coal Tit	coatit2	0.8796	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	498.0
+8	Spectrogram 1	1	504.0	507.0	0	15000	Goldcrest	goldcr1	0.8419	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	504.0
+9	Spectrogram 1	1	510.0	513.0	0	15000	Coal Tit	coatit2	0.8436	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	510.0
+10	Spectrogram 1	1	513.0	516.0	0	15000	Coal Tit	coatit2	0.8209	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	513.0
+11	Spectrogram 1	1	528.0	531.0	0	15000	Coal Tit	coatit2	0.8638	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	528.0
+12	Spectrogram 1	1	534.0	537.0	0	15000	Coal Tit	coatit2	0.8544	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	534.0
+13	Spectrogram 1	1	543.0	546.0	0	15000	Coal Tit	coatit2	0.6854	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	543.0
+14	Spectrogram 1	1	888.0	891.0	0	15000	Great Tit	gretit1	0.7248	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	888.0
+15	Spectrogram 1	1	894.0	897.0	0	15000	Great Tit	gretit1	0.7488	.\sounds\realsound\red\red2\20260215\20260215_080000.WAV	894.0

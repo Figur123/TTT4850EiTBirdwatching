@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	15000	Crested Tit	cretit2	0.7891	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	27.0
+2	Spectrogram 1	1	33.0	36.0	0	15000	Crested Tit	cretit2	0.8742	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	33.0
+3	Spectrogram 1	1	36.0	39.0	0	15000	Crested Tit	cretit2	0.7050	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	36.0
+4	Spectrogram 1	1	39.0	42.0	0	15000	Crested Tit	cretit2	0.5927	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	39.0
+5	Spectrogram 1	1	45.0	48.0	0	15000	Crested Tit	cretit2	0.5459	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	45.0
+6	Spectrogram 1	1	54.0	57.0	0	15000	Crested Tit	cretit2	0.8780	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	54.0
+7	Spectrogram 1	1	57.0	60.0	0	15000	Crested Tit	cretit2	0.8996	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	57.0
+8	Spectrogram 1	1	57.0	60.0	0	15000	Goldcrest	goldcr1	0.5927	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	57.0
+9	Spectrogram 1	1	60.0	63.0	0	15000	Crested Tit	cretit2	0.9289	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	60.0
+10	Spectrogram 1	1	66.0	69.0	0	15000	Crested Tit	cretit2	0.5128	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	66.0
+11	Spectrogram 1	1	69.0	72.0	0	15000	Crested Tit	cretit2	0.9755	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	69.0
+12	Spectrogram 1	1	75.0	78.0	0	15000	Crested Tit	cretit2	0.9811	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	75.0
+13	Spectrogram 1	1	78.0	81.0	0	15000	Crested Tit	cretit2	0.8772	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	78.0
+14	Spectrogram 1	1	84.0	87.0	0	15000	Crested Tit	cretit2	0.8526	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	84.0
+15	Spectrogram 1	1	93.0	96.0	0	15000	Crested Tit	cretit2	0.9011	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	93.0
+16	Spectrogram 1	1	96.0	99.0	0	15000	Crested Tit	cretit2	0.9552	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	96.0
+17	Spectrogram 1	1	102.0	105.0	0	15000	Crested Tit	cretit2	0.9857	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	102.0
+18	Spectrogram 1	1	105.0	108.0	0	15000	Crested Tit	cretit2	0.5070	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	105.0
+19	Spectrogram 1	1	108.0	111.0	0	15000	Crested Tit	cretit2	0.8972	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	108.0
+20	Spectrogram 1	1	114.0	117.0	0	15000	Crested Tit	cretit2	0.6680	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	114.0
+21	Spectrogram 1	1	117.0	120.0	0	15000	Crested Tit	cretit2	0.9429	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	117.0
+22	Spectrogram 1	1	120.0	123.0	0	15000	Crested Tit	cretit2	0.8967	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	120.0
+23	Spectrogram 1	1	123.0	126.0	0	15000	Crested Tit	cretit2	0.9474	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	123.0
+24	Spectrogram 1	1	126.0	129.0	0	15000	Crested Tit	cretit2	0.8533	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	126.0
+25	Spectrogram 1	1	132.0	135.0	0	15000	Crested Tit	cretit2	0.9735	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	132.0
+26	Spectrogram 1	1	135.0	138.0	0	15000	Crested Tit	cretit2	0.8070	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	135.0
+27	Spectrogram 1	1	144.0	147.0	0	15000	Crested Tit	cretit2	0.9185	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	144.0
+28	Spectrogram 1	1	168.0	171.0	0	15000	Crested Tit	cretit2	0.6564	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	168.0
+29	Spectrogram 1	1	171.0	174.0	0	15000	Goldcrest	goldcr1	0.5818	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	171.0
+30	Spectrogram 1	1	180.0	183.0	0	15000	Crested Tit	cretit2	0.7427	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	180.0
+31	Spectrogram 1	1	186.0	189.0	0	15000	Crested Tit	cretit2	0.8961	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	186.0
+32	Spectrogram 1	1	189.0	192.0	0	15000	Crested Tit	cretit2	0.6018	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	189.0
+33	Spectrogram 1	1	240.0	243.0	0	15000	Coal Tit	coatit2	0.5763	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	240.0
+34	Spectrogram 1	1	246.0	249.0	0	15000	Coal Tit	coatit2	0.6538	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	246.0
+35	Spectrogram 1	1	252.0	255.0	0	15000	Coal Tit	coatit2	0.7189	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	252.0
+36	Spectrogram 1	1	258.0	261.0	0	15000	Goldcrest	goldcr1	0.6278	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	258.0
+37	Spectrogram 1	1	267.0	270.0	0	15000	Coal Tit	coatit2	0.5118	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	267.0
+38	Spectrogram 1	1	309.0	312.0	0	15000	Goldcrest	goldcr1	0.5961	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	309.0
+39	Spectrogram 1	1	315.0	318.0	0	15000	Goldcrest	goldcr1	0.8485	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	315.0
+40	Spectrogram 1	1	432.0	435.0	0	15000	Goldcrest	goldcr1	0.7987	.\sounds\realsound\red\red1\20260206\20260206_100000.WAV	432.0

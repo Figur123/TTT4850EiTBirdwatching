@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	471.0	474.0	0	15000	Redwing	redwin	0.6266	.\sounds\realsound\white\white2\20260219\20260219_110000.WAV	471.0
+2	Spectrogram 1	1	483.0	486.0	0	15000	Eurasian Treecreeper	eurtre1	0.5400	.\sounds\realsound\white\white2\20260219\20260219_110000.WAV	483.0
+3	Spectrogram 1	1	534.0	537.0	0	15000	Eurasian Treecreeper	eurtre1	0.5696	.\sounds\realsound\white\white2\20260219\20260219_110000.WAV	534.0
+4	Spectrogram 1	1	537.0	540.0	0	15000	Eurasian Treecreeper	eurtre1	0.5135	.\sounds\realsound\white\white2\20260219\20260219_110000.WAV	537.0

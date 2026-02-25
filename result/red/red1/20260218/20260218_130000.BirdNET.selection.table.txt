@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	159.0	162.0	0	15000	Eurasian Woodcock	eurwoo	0.5821	.\sounds\realsound\red\red1\20260218\20260218_130000.WAV	159.0
+2	Spectrogram 1	1	510.0	513.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.6188	.\sounds\realsound\red\red1\20260218\20260218_130000.WAV	510.0
+3	Spectrogram 1	1	555.0	558.0	0	15000	Eurasian Bullfinch	eurbul	0.9280	.\sounds\realsound\red\red1\20260218\20260218_130000.WAV	555.0
+4	Spectrogram 1	1	756.0	759.0	0	15000	Hazel Grouse	hazgro1	0.9908	.\sounds\realsound\red\red1\20260218\20260218_130000.WAV	756.0

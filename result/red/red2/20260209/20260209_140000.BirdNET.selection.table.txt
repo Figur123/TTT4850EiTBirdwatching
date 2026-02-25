@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	570.0	573.0	0	15000	Goldcrest	goldcr1	0.6371	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	570.0
+2	Spectrogram 1	1	582.0	585.0	0	15000	Goldcrest	goldcr1	0.7419	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	582.0
+3	Spectrogram 1	1	588.0	591.0	0	15000	Goldcrest	goldcr1	0.7410	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	588.0
+4	Spectrogram 1	1	591.0	594.0	0	15000	Goldcrest	goldcr1	0.9036	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	591.0
+5	Spectrogram 1	1	594.0	597.0	0	15000	Goldcrest	goldcr1	0.6177	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	594.0
+6	Spectrogram 1	1	597.0	600.0	0	15000	Goldcrest	goldcr1	0.6955	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	597.0
+7	Spectrogram 1	1	606.0	609.0	0	15000	Goldcrest	goldcr1	0.9287	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	606.0
+8	Spectrogram 1	1	609.0	612.0	0	15000	Goldcrest	goldcr1	0.8965	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	609.0
+9	Spectrogram 1	1	615.0	618.0	0	15000	Goldcrest	goldcr1	0.5559	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	615.0
+10	Spectrogram 1	1	621.0	624.0	0	15000	Goldcrest	goldcr1	0.6871	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	621.0
+11	Spectrogram 1	1	627.0	630.0	0	15000	Goldcrest	goldcr1	0.9215	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	627.0
+12	Spectrogram 1	1	633.0	636.0	0	15000	Goldcrest	goldcr1	0.9601	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	633.0
+13	Spectrogram 1	1	636.0	639.0	0	15000	Goldcrest	goldcr1	0.9015	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	636.0
+14	Spectrogram 1	1	645.0	648.0	0	15000	Goldcrest	goldcr1	0.5775	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	645.0
+15	Spectrogram 1	1	648.0	651.0	0	15000	Goldcrest	goldcr1	0.7338	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	648.0
+16	Spectrogram 1	1	660.0	663.0	0	15000	Song Thrush	sonthr1	0.5857	.\sounds\realsound\red\red2\20260209\20260209_140000.WAV	660.0

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	255.0	258.0	0	15000	Eurasian Bullfinch	eurbul	0.7787	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	255.0
+2	Spectrogram 1	1	267.0	270.0	0	15000	Eurasian Bullfinch	eurbul	0.9822	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	267.0
+3	Spectrogram 1	1	270.0	273.0	0	15000	Eurasian Bullfinch	eurbul	0.9708	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	270.0
+4	Spectrogram 1	1	273.0	276.0	0	15000	Eurasian Bullfinch	eurbul	0.8319	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	273.0
+5	Spectrogram 1	1	279.0	282.0	0	15000	Eurasian Bullfinch	eurbul	0.9404	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	279.0
+6	Spectrogram 1	1	282.0	285.0	0	15000	Eurasian Bullfinch	eurbul	0.9138	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	282.0
+7	Spectrogram 1	1	285.0	288.0	0	15000	Eurasian Bullfinch	eurbul	0.9706	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	285.0
+8	Spectrogram 1	1	288.0	291.0	0	15000	Eurasian Bullfinch	eurbul	0.8937	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	288.0
+9	Spectrogram 1	1	291.0	294.0	0	15000	Eurasian Bullfinch	eurbul	0.8476	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	291.0
+10	Spectrogram 1	1	294.0	297.0	0	15000	Eurasian Bullfinch	eurbul	0.8911	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	294.0
+11	Spectrogram 1	1	297.0	300.0	0	15000	Eurasian Bullfinch	eurbul	0.9798	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	297.0
+12	Spectrogram 1	1	300.0	303.0	0	15000	Eurasian Bullfinch	eurbul	0.9504	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	300.0
+13	Spectrogram 1	1	303.0	306.0	0	15000	Eurasian Bullfinch	eurbul	0.7309	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	303.0
+14	Spectrogram 1	1	303.0	306.0	0	15000	Eurasian Dotterel	eurdot	0.5699	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	303.0
+15	Spectrogram 1	1	306.0	309.0	0	15000	Eurasian Bullfinch	eurbul	0.9555	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	306.0
+16	Spectrogram 1	1	309.0	312.0	0	15000	Eurasian Bullfinch	eurbul	0.9667	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	309.0
+17	Spectrogram 1	1	324.0	327.0	0	15000	Eurasian Bullfinch	eurbul	0.7970	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	324.0
+18	Spectrogram 1	1	456.0	459.0	0	15000	Eurasian Bullfinch	eurbul	0.6952	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	456.0
+19	Spectrogram 1	1	885.0	888.0	0	15000	Willow Tit	wiltit1	0.7971	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	885.0
+20	Spectrogram 1	1	891.0	894.0	0	15000	Willow Tit	wiltit1	0.7224	.\sounds\realsound\red\red3\20260210\20260210_080000.WAV	891.0

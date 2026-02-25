@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0.0	3.0	0	15000	Great Bittern	grebit1	0.8007	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	0.0
+2	Spectrogram 1	1	12.0	15.0	0	15000	Redwing	redwin	0.7034	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	12.0
+3	Spectrogram 1	1	18.0	21.0	0	15000	Redwing	redwin	0.9044	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	18.0
+4	Spectrogram 1	1	39.0	42.0	0	15000	Redwing	redwin	0.9567	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	39.0
+5	Spectrogram 1	1	105.0	108.0	0	15000	Redwing	redwin	0.6281	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	105.0
+6	Spectrogram 1	1	108.0	111.0	0	15000	Redwing	redwin	0.6234	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	108.0
+7	Spectrogram 1	1	123.0	126.0	0	15000	Redwing	redwin	0.5495	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	123.0
+8	Spectrogram 1	1	195.0	198.0	0	15000	Goldcrest	goldcr1	0.5681	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	195.0
+9	Spectrogram 1	1	324.0	327.0	0	15000	Coal Tit	coatit2	0.6906	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	324.0
+10	Spectrogram 1	1	333.0	336.0	0	15000	Coal Tit	coatit2	0.6984	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	333.0
+11	Spectrogram 1	1	339.0	342.0	0	15000	Coal Tit	coatit2	0.7543	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	339.0
+12	Spectrogram 1	1	345.0	348.0	0	15000	Coal Tit	coatit2	0.5710	.\sounds\realsound\white\white1\20260209\20260209_150000.WAV	345.0

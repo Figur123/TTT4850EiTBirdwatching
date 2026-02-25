@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	441.0	444.0	0	15000	Hooded Crow	hoocro1	0.7735	.\sounds\realsound\red\red1\20260208\20260208_070000.WAV	441.0
+2	Spectrogram 1	1	441.0	444.0	0	15000	Carrion Crow	carcro1	0.6094	.\sounds\realsound\red\red1\20260208\20260208_070000.WAV	441.0
+3	Spectrogram 1	1	453.0	456.0	0	15000	Hooded Crow	hoocro1	0.7942	.\sounds\realsound\red\red1\20260208\20260208_070000.WAV	453.0
+4	Spectrogram 1	1	456.0	459.0	0	15000	Hooded Crow	hoocro1	0.8628	.\sounds\realsound\red\red1\20260208\20260208_070000.WAV	456.0
+5	Spectrogram 1	1	528.0	531.0	0	15000	Hooded Crow	hoocro1	0.5773	.\sounds\realsound\red\red1\20260208\20260208_070000.WAV	528.0

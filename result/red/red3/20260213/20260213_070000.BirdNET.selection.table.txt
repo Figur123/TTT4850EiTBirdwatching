@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	15000	Goldcrest	goldcr1	0.7143	.\sounds\realsound\red\red3\20260213\20260213_070000.WAV	18.0
+2	Spectrogram 1	1	111.0	114.0	0	15000	Redwing	redwin	0.7183	.\sounds\realsound\red\red3\20260213\20260213_070000.WAV	111.0
+3	Spectrogram 1	1	630.0	633.0	0	15000	Hooded Crow	hoocro1	0.6077	.\sounds\realsound\red\red3\20260213\20260213_070000.WAV	630.0

@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	15000	Goldcrest	goldcr1	0.7071	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	24.0
+2	Spectrogram 1	1	27.0	30.0	0	15000	Goldcrest	goldcr1	0.9636	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	27.0
+3	Spectrogram 1	1	30.0	33.0	0	15000	Goldcrest	goldcr1	0.5553	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	30.0
+4	Spectrogram 1	1	33.0	36.0	0	15000	Goldcrest	goldcr1	0.8301	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	33.0
+5	Spectrogram 1	1	42.0	45.0	0	15000	Goldcrest	goldcr1	0.8034	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	42.0
+6	Spectrogram 1	1	48.0	51.0	0	15000	Goldcrest	goldcr1	0.5438	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	48.0
+7	Spectrogram 1	1	51.0	54.0	0	15000	Goldcrest	goldcr1	0.6339	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	51.0
+8	Spectrogram 1	1	54.0	57.0	0	15000	Goldcrest	goldcr1	0.6447	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	54.0
+9	Spectrogram 1	1	66.0	69.0	0	15000	Goldcrest	goldcr1	0.6840	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	66.0
+10	Spectrogram 1	1	69.0	72.0	0	15000	Goldcrest	goldcr1	0.6311	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	69.0
+11	Spectrogram 1	1	72.0	75.0	0	15000	Goldcrest	goldcr1	0.6603	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	72.0
+12	Spectrogram 1	1	78.0	81.0	0	15000	Goldcrest	goldcr1	0.5322	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	78.0
+13	Spectrogram 1	1	84.0	87.0	0	15000	Goldcrest	goldcr1	0.8039	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	84.0
+14	Spectrogram 1	1	105.0	108.0	0	15000	Eurasian Woodcock	eurwoo	0.6989	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	105.0
+15	Spectrogram 1	1	141.0	144.0	0	15000	Goldcrest	goldcr1	0.7849	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	141.0
+16	Spectrogram 1	1	225.0	228.0	0	15000	Goldcrest	goldcr1	0.5271	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	225.0
+17	Spectrogram 1	1	261.0	264.0	0	15000	Goldcrest	goldcr1	0.5311	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	261.0
+18	Spectrogram 1	1	456.0	459.0	0	15000	Song Thrush	sonthr1	0.6420	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	456.0
+19	Spectrogram 1	1	504.0	507.0	0	15000	European Robin	eurrob1	0.5176	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	504.0
+20	Spectrogram 1	1	507.0	510.0	0	15000	European Robin	eurrob1	0.5596	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	507.0
+21	Spectrogram 1	1	513.0	516.0	0	15000	European Robin	eurrob1	0.5649	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	513.0
+22	Spectrogram 1	1	516.0	519.0	0	15000	European Robin	eurrob1	0.5086	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	516.0
+23	Spectrogram 1	1	525.0	528.0	0	15000	European Robin	eurrob1	0.5126	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	525.0
+24	Spectrogram 1	1	528.0	531.0	0	15000	European Robin	eurrob1	0.5324	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	528.0
+25	Spectrogram 1	1	549.0	552.0	0	15000	Song Thrush	sonthr1	0.5355	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	549.0
+26	Spectrogram 1	1	648.0	651.0	0	15000	Song Thrush	sonthr1	0.5928	.\sounds\realsound\red\red4\20260208\20260208_090000.WAV	648.0

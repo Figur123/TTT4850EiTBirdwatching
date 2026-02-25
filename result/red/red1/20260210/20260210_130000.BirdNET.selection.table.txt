@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	189.0	192.0	0	15000	Eurasian Jay	eurjay1	0.6930	.\sounds\realsound\red\red1\20260210\20260210_130000.WAV	189.0
+2	Spectrogram 1	1	222.0	225.0	0	15000	Eurasian Jay	eurjay1	0.5066	.\sounds\realsound\red\red1\20260210\20260210_130000.WAV	222.0
+3	Spectrogram 1	1	240.0	243.0	0	15000	Eurasian Magpie	eurmag1	0.8109	.\sounds\realsound\red\red1\20260210\20260210_130000.WAV	240.0

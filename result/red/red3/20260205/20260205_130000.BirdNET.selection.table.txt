@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	483.0	486.0	0	15000	Common Wood-Pigeon	cowpig1	0.7204	.\sounds\realsound\red\red3\20260205\20260205_130000.WAV	483.0

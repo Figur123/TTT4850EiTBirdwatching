@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	15000	Hazel Grouse	hazgro1	0.9964	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	6.0
+2	Spectrogram 1	1	9.0	12.0	0	15000	Hazel Grouse	hazgro1	0.8667	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	9.0
+3	Spectrogram 1	1	21.0	24.0	0	15000	Hazel Grouse	hazgro1	0.9985	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	21.0
+4	Spectrogram 1	1	21.0	24.0	0	15000	Eurasian Pygmy-Owl	eupowl1	0.5175	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	21.0
+5	Spectrogram 1	1	24.0	27.0	0	15000	Hazel Grouse	hazgro1	0.9945	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	24.0
+6	Spectrogram 1	1	45.0	48.0	0	15000	Hazel Grouse	hazgro1	0.9983	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	45.0
+7	Spectrogram 1	1	48.0	51.0	0	15000	Hazel Grouse	hazgro1	0.9822	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	48.0
+8	Spectrogram 1	1	57.0	60.0	0	15000	Bohemian Waxwing	bohwax	0.6476	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	57.0
+9	Spectrogram 1	1	63.0	66.0	0	15000	Hazel Grouse	hazgro1	0.9966	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	63.0
+10	Spectrogram 1	1	96.0	99.0	0	15000	Hazel Grouse	hazgro1	0.9963	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	96.0
+11	Spectrogram 1	1	126.0	129.0	0	15000	Hazel Grouse	hazgro1	0.9881	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	126.0
+12	Spectrogram 1	1	129.0	132.0	0	15000	Hazel Grouse	hazgro1	0.6496	.\sounds\realsound\red\red1\20260207\20260207_070000.WAV	129.0

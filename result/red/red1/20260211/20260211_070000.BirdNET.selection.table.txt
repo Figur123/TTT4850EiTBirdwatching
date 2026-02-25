@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	237.0	240.0	0	15000	Mallard	mallar3	0.5690	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	237.0
+2	Spectrogram 1	1	291.0	294.0	0	15000	Common Raven	comrav	0.7885	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	291.0
+3	Spectrogram 1	1	300.0	303.0	0	15000	Common Raven	comrav	0.6156	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	300.0
+4	Spectrogram 1	1	303.0	306.0	0	15000	Common Raven	comrav	0.7886	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	303.0
+5	Spectrogram 1	1	306.0	309.0	0	15000	Common Raven	comrav	0.5855	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	306.0
+6	Spectrogram 1	1	477.0	480.0	0	15000	Common Raven	comrav	0.6340	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	477.0
+7	Spectrogram 1	1	501.0	504.0	0	15000	Common Raven	comrav	0.6055	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	501.0
+8	Spectrogram 1	1	516.0	519.0	0	15000	Common Raven	comrav	0.5899	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	516.0
+9	Spectrogram 1	1	561.0	564.0	0	15000	Eurasian Bullfinch	eurbul	0.8414	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	561.0
+10	Spectrogram 1	1	567.0	570.0	0	15000	Eurasian Bullfinch	eurbul	0.6666	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	567.0
+11	Spectrogram 1	1	570.0	573.0	0	15000	Eurasian Bullfinch	eurbul	0.7267	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	570.0
+12	Spectrogram 1	1	573.0	576.0	0	15000	Eurasian Bullfinch	eurbul	0.8055	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	573.0
+13	Spectrogram 1	1	576.0	579.0	0	15000	Eurasian Bullfinch	eurbul	0.6996	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	576.0
+14	Spectrogram 1	1	579.0	582.0	0	15000	Eurasian Bullfinch	eurbul	0.6048	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	579.0
+15	Spectrogram 1	1	582.0	585.0	0	15000	Eurasian Bullfinch	eurbul	0.8674	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	582.0
+16	Spectrogram 1	1	585.0	588.0	0	15000	Eurasian Bullfinch	eurbul	0.7122	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	585.0
+17	Spectrogram 1	1	588.0	591.0	0	15000	Eurasian Bullfinch	eurbul	0.5340	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	588.0
+18	Spectrogram 1	1	612.0	615.0	0	15000	Common Raven	comrav	0.5381	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	612.0
+19	Spectrogram 1	1	651.0	654.0	0	15000	Eurasian Jay	eurjay1	0.8940	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	651.0
+20	Spectrogram 1	1	669.0	672.0	0	15000	Eurasian Jay	eurjay1	0.9926	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	669.0
+21	Spectrogram 1	1	672.0	675.0	0	15000	Eurasian Jay	eurjay1	0.9202	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	672.0
+22	Spectrogram 1	1	849.0	852.0	0	15000	Eurasian Nuthatch	eurnut2	0.9315	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	849.0
+23	Spectrogram 1	1	876.0	879.0	0	15000	Eurasian Nuthatch	eurnut2	0.7041	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	876.0
+24	Spectrogram 1	1	885.0	888.0	0	15000	Eurasian Nuthatch	eurnut2	0.6490	.\sounds\realsound\red\red1\20260211\20260211_070000.WAV	885.0

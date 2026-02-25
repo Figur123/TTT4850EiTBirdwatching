@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	279.0	282.0	0	15000	Eurasian Treecreeper	eurtre1	0.8700	.\sounds\realsound\red\red3\20260214\20260214_070000.WAV	279.0
+2	Spectrogram 1	1	315.0	318.0	0	15000	Eurasian Treecreeper	eurtre1	0.5012	.\sounds\realsound\red\red3\20260214\20260214_070000.WAV	315.0
+3	Spectrogram 1	1	354.0	357.0	0	15000	Eurasian Treecreeper	eurtre1	0.9398	.\sounds\realsound\red\red3\20260214\20260214_070000.WAV	354.0

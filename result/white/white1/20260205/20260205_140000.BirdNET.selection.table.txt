@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0.0	3.0	0	15000	Goldcrest	goldcr1	0.5244	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	0.0
+2	Spectrogram 1	1	9.0	12.0	0	15000	Song Thrush	sonthr1	0.5112	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	9.0
+3	Spectrogram 1	1	21.0	24.0	0	15000	Goldcrest	goldcr1	0.8875	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	21.0
+4	Spectrogram 1	1	36.0	39.0	0	15000	Goldcrest	goldcr1	0.5737	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	36.0
+5	Spectrogram 1	1	51.0	54.0	0	15000	Goldcrest	goldcr1	0.6884	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	51.0
+6	Spectrogram 1	1	90.0	93.0	0	15000	Goldcrest	goldcr1	0.6616	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	90.0
+7	Spectrogram 1	1	105.0	108.0	0	15000	Goldcrest	goldcr1	0.6254	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	105.0
+8	Spectrogram 1	1	108.0	111.0	0	15000	Song Thrush	sonthr1	0.8048	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	108.0
+9	Spectrogram 1	1	114.0	117.0	0	15000	Goldcrest	goldcr1	0.6447	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	114.0
+10	Spectrogram 1	1	132.0	135.0	0	15000	Goldcrest	goldcr1	0.5407	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	132.0
+11	Spectrogram 1	1	213.0	216.0	0	15000	Goldcrest	goldcr1	0.6371	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	213.0
+12	Spectrogram 1	1	219.0	222.0	0	15000	Song Thrush	sonthr1	0.6352	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	219.0
+13	Spectrogram 1	1	228.0	231.0	0	15000	Goldcrest	goldcr1	0.5843	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	228.0
+14	Spectrogram 1	1	246.0	249.0	0	15000	Song Thrush	sonthr1	0.7890	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	246.0
+15	Spectrogram 1	1	309.0	312.0	0	15000	Goldcrest	goldcr1	0.6541	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	309.0
+16	Spectrogram 1	1	438.0	441.0	0	15000	Red-flanked Bluetail	refblu1	0.5963	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	438.0
+17	Spectrogram 1	1	537.0	540.0	0	15000	Goldcrest	goldcr1	0.5206	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	537.0
+18	Spectrogram 1	1	561.0	564.0	0	15000	Goldcrest	goldcr1	0.6173	.\sounds\realsound\white\white1\20260205\20260205_140000.WAV	561.0

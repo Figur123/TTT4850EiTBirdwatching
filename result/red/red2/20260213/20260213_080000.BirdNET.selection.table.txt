@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	225.0	228.0	0	15000	Dunnock	dunnoc1	0.6225	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	225.0
+2	Spectrogram 1	1	540.0	543.0	0	15000	Coal Tit	coatit2	0.6014	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	540.0
+3	Spectrogram 1	1	543.0	546.0	0	15000	Coal Tit	coatit2	0.5220	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	543.0
+4	Spectrogram 1	1	552.0	555.0	0	15000	Coal Tit	coatit2	0.6710	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	552.0
+5	Spectrogram 1	1	558.0	561.0	0	15000	Coal Tit	coatit2	0.8994	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	558.0
+6	Spectrogram 1	1	567.0	570.0	0	15000	Coal Tit	coatit2	0.8883	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	567.0
+7	Spectrogram 1	1	573.0	576.0	0	15000	Coal Tit	coatit2	0.5324	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	573.0
+8	Spectrogram 1	1	579.0	582.0	0	15000	Coal Tit	coatit2	0.5914	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	579.0
+9	Spectrogram 1	1	615.0	618.0	0	15000	Goldcrest	goldcr1	0.6260	.\sounds\realsound\red\red2\20260213\20260213_080000.WAV	615.0

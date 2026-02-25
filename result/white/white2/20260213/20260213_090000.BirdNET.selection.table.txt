@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	762.0	765.0	0	15000	Tawny Owl	tawowl1	0.8481	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	762.0
+2	Spectrogram 1	1	870.0	873.0	0	15000	Coal Tit	coatit2	0.8130	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	870.0
+3	Spectrogram 1	1	873.0	876.0	0	15000	Coal Tit	coatit2	0.6040	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	873.0
+4	Spectrogram 1	1	876.0	879.0	0	15000	Coal Tit	coatit2	0.8036	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	876.0
+5	Spectrogram 1	1	879.0	882.0	0	15000	Coal Tit	coatit2	0.5453	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	879.0
+6	Spectrogram 1	1	885.0	888.0	0	15000	Coal Tit	coatit2	0.7952	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	885.0
+7	Spectrogram 1	1	891.0	894.0	0	15000	Coal Tit	coatit2	0.5843	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	891.0
+8	Spectrogram 1	1	894.0	897.0	0	15000	Coal Tit	coatit2	0.6716	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	894.0
+9	Spectrogram 1	1	897.0	900.0	0	15000	Coal Tit	coatit2	0.7805	.\sounds\realsound\white\white2\20260213\20260213_090000.WAV	897.0

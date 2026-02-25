@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	180.0	183.0	0	15000	Carrion Crow	carcro1	0.7705	.\sounds\realsound\red\red1\20260209\20260209_110000.WAV	180.0
+2	Spectrogram 1	1	204.0	207.0	0	15000	Carrion Crow	carcro1	0.5680	.\sounds\realsound\red\red1\20260209\20260209_110000.WAV	204.0
+3	Spectrogram 1	1	648.0	651.0	0	15000	Great Bittern	grebit1	0.9571	.\sounds\realsound\red\red1\20260209\20260209_110000.WAV	648.0
+4	Spectrogram 1	1	657.0	660.0	0	15000	Common Raven	comrav	0.9323	.\sounds\realsound\red\red1\20260209\20260209_110000.WAV	657.0
+5	Spectrogram 1	1	834.0	837.0	0	15000	Carrion Crow	carcro1	0.7857	.\sounds\realsound\red\red1\20260209\20260209_110000.WAV	834.0

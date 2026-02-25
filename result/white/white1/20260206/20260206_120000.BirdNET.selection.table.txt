@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	126.0	129.0	0	15000	Tawny Owl	tawowl1	0.6226	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	126.0
+2	Spectrogram 1	1	660.0	663.0	0	15000	Goldcrest	goldcr1	0.5241	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	660.0
+3	Spectrogram 1	1	663.0	666.0	0	15000	Goldcrest	goldcr1	0.6435	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	663.0
+4	Spectrogram 1	1	681.0	684.0	0	15000	Goldcrest	goldcr1	0.7607	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	681.0
+5	Spectrogram 1	1	702.0	705.0	0	15000	Goldcrest	goldcr1	0.7560	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	702.0
+6	Spectrogram 1	1	885.0	888.0	0	15000	Goldcrest	goldcr1	0.8302	.\sounds\realsound\white\white1\20260206\20260206_120000.WAV	885.0

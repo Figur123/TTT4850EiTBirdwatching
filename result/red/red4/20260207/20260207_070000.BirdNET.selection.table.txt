@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	15000	Hazel Grouse	hazgro1	0.9928	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	6.0
+2	Spectrogram 1	1	21.0	24.0	0	15000	Hazel Grouse	hazgro1	0.8951	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	21.0
+3	Spectrogram 1	1	45.0	48.0	0	15000	Hazel Grouse	hazgro1	0.8685	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	45.0
+4	Spectrogram 1	1	60.0	63.0	0	15000	Hazel Grouse	hazgro1	0.5966	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	60.0
+5	Spectrogram 1	1	96.0	99.0	0	15000	Hazel Grouse	hazgro1	0.9024	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	96.0
+6	Spectrogram 1	1	126.0	129.0	0	15000	Hazel Grouse	hazgro1	0.7353	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	126.0
+7	Spectrogram 1	1	162.0	165.0	0	15000	Bohemian Waxwing	bohwax	0.7371	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	162.0
+8	Spectrogram 1	1	408.0	411.0	0	15000	Willow Tit	wiltit1	0.6229	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	408.0
+9	Spectrogram 1	1	444.0	447.0	0	15000	Hazel Grouse	hazgro1	0.6798	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	444.0
+10	Spectrogram 1	1	450.0	453.0	0	15000	Willow Tit	wiltit1	0.6504	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	450.0
+11	Spectrogram 1	1	777.0	780.0	0	15000	Willow Tit	wiltit1	0.6307	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	777.0
+12	Spectrogram 1	1	792.0	795.0	0	15000	Willow Tit	wiltit1	0.9106	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	792.0
+13	Spectrogram 1	1	798.0	801.0	0	15000	Willow Tit	wiltit1	0.9303	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	798.0
+14	Spectrogram 1	1	801.0	804.0	0	15000	Willow Tit	wiltit1	0.8107	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	801.0
+15	Spectrogram 1	1	810.0	813.0	0	15000	Willow Tit	wiltit1	0.9215	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	810.0
+16	Spectrogram 1	1	816.0	819.0	0	15000	Willow Tit	wiltit1	0.9289	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	816.0
+17	Spectrogram 1	1	819.0	822.0	0	15000	Willow Tit	wiltit1	0.8743	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	819.0
+18	Spectrogram 1	1	825.0	828.0	0	15000	Willow Tit	wiltit1	0.7577	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	825.0
+19	Spectrogram 1	1	834.0	837.0	0	15000	Goldcrest	goldcr1	0.5716	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	834.0
+20	Spectrogram 1	1	888.0	891.0	0	15000	Hazel Grouse	hazgro1	0.7332	.\sounds\realsound\red\red4\20260207\20260207_070000.WAV	888.0

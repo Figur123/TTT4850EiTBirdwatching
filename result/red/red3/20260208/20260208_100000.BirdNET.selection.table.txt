@@ -1,0 +1,84 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0.0	3.0	0	15000	Coal Tit	coatit2	0.9114	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	0.0
+2	Spectrogram 1	1	3.0	6.0	0	15000	Goldcrest	goldcr1	0.7182	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	3.0
+3	Spectrogram 1	1	6.0	9.0	0	15000	Coal Tit	coatit2	0.8833	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	6.0
+4	Spectrogram 1	1	12.0	15.0	0	15000	Coal Tit	coatit2	0.9570	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	12.0
+5	Spectrogram 1	1	15.0	18.0	0	15000	Goldcrest	goldcr1	0.6404	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	15.0
+6	Spectrogram 1	1	18.0	21.0	0	15000	Coal Tit	coatit2	0.6799	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	18.0
+7	Spectrogram 1	1	21.0	24.0	0	15000	Coal Tit	coatit2	0.9530	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	21.0
+8	Spectrogram 1	1	24.0	27.0	0	15000	Coal Tit	coatit2	0.8746	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	24.0
+9	Spectrogram 1	1	30.0	33.0	0	15000	Goldcrest	goldcr1	0.5187	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	30.0
+10	Spectrogram 1	1	36.0	39.0	0	15000	Coal Tit	coatit2	0.5826	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	36.0
+11	Spectrogram 1	1	48.0	51.0	0	15000	Goldcrest	goldcr1	0.8319	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	48.0
+12	Spectrogram 1	1	51.0	54.0	0	15000	Goldcrest	goldcr1	0.6218	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	51.0
+13	Spectrogram 1	1	63.0	66.0	0	15000	Goldcrest	goldcr1	0.5995	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	63.0
+14	Spectrogram 1	1	72.0	75.0	0	15000	Coal Tit	coatit2	0.8518	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	72.0
+15	Spectrogram 1	1	78.0	81.0	0	15000	Coal Tit	coatit2	0.6693	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	78.0
+16	Spectrogram 1	1	84.0	87.0	0	15000	Goldcrest	goldcr1	0.5391	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	84.0
+17	Spectrogram 1	1	87.0	90.0	0	15000	Coal Tit	coatit2	0.7892	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	87.0
+18	Spectrogram 1	1	90.0	93.0	0	15000	Goldcrest	goldcr1	0.6181	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	90.0
+19	Spectrogram 1	1	96.0	99.0	0	15000	Coal Tit	coatit2	0.8259	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	96.0
+20	Spectrogram 1	1	102.0	105.0	0	15000	Goldcrest	goldcr1	0.8017	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	102.0
+21	Spectrogram 1	1	105.0	108.0	0	15000	Coal Tit	coatit2	0.7975	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	105.0
+22	Spectrogram 1	1	108.0	111.0	0	15000	Goldcrest	goldcr1	0.5835	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	108.0
+23	Spectrogram 1	1	111.0	114.0	0	15000	Coal Tit	coatit2	0.8288	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	111.0
+24	Spectrogram 1	1	114.0	117.0	0	15000	Goldcrest	goldcr1	0.5971	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	114.0
+25	Spectrogram 1	1	126.0	129.0	0	15000	Goldcrest	goldcr1	0.7245	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	126.0
+26	Spectrogram 1	1	129.0	132.0	0	15000	Goldcrest	goldcr1	0.5832	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	129.0
+27	Spectrogram 1	1	132.0	135.0	0	15000	Goldcrest	goldcr1	0.9085	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	132.0
+28	Spectrogram 1	1	141.0	144.0	0	15000	Goldcrest	goldcr1	0.5624	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	141.0
+29	Spectrogram 1	1	144.0	147.0	0	15000	Goldcrest	goldcr1	0.7816	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	144.0
+30	Spectrogram 1	1	147.0	150.0	0	15000	Goldcrest	goldcr1	0.5531	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	147.0
+31	Spectrogram 1	1	150.0	153.0	0	15000	Goldcrest	goldcr1	0.5751	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	150.0
+32	Spectrogram 1	1	153.0	156.0	0	15000	Goldcrest	goldcr1	0.5564	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	153.0
+33	Spectrogram 1	1	156.0	159.0	0	15000	Goldcrest	goldcr1	0.6669	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	156.0
+34	Spectrogram 1	1	171.0	174.0	0	15000	Coal Tit	coatit2	0.6582	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	171.0
+35	Spectrogram 1	1	174.0	177.0	0	15000	Coal Tit	coatit2	0.5458	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	174.0
+36	Spectrogram 1	1	177.0	180.0	0	15000	Goldcrest	goldcr1	0.7598	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	177.0
+37	Spectrogram 1	1	237.0	240.0	0	15000	Willow Tit	wiltit1	0.6183	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	237.0
+38	Spectrogram 1	1	243.0	246.0	0	15000	Goldcrest	goldcr1	0.8606	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	243.0
+39	Spectrogram 1	1	249.0	252.0	0	15000	Goldcrest	goldcr1	0.8202	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	249.0
+40	Spectrogram 1	1	261.0	264.0	0	15000	Goldcrest	goldcr1	0.6030	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	261.0
+41	Spectrogram 1	1	264.0	267.0	0	15000	Goldcrest	goldcr1	0.7079	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	264.0
+42	Spectrogram 1	1	267.0	270.0	0	15000	Goldcrest	goldcr1	0.8551	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	267.0
+43	Spectrogram 1	1	282.0	285.0	0	15000	Goldcrest	goldcr1	0.6233	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	282.0
+44	Spectrogram 1	1	291.0	294.0	0	15000	Goldcrest	goldcr1	0.7149	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	291.0
+45	Spectrogram 1	1	318.0	321.0	0	15000	Goldcrest	goldcr1	0.8702	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	318.0
+46	Spectrogram 1	1	351.0	354.0	0	15000	Goldcrest	goldcr1	0.7924	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	351.0
+47	Spectrogram 1	1	354.0	357.0	0	15000	Goldcrest	goldcr1	0.5498	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	354.0
+48	Spectrogram 1	1	369.0	372.0	0	15000	Goldcrest	goldcr1	0.9006	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	369.0
+49	Spectrogram 1	1	372.0	375.0	0	15000	Goldcrest	goldcr1	0.5779	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	372.0
+50	Spectrogram 1	1	387.0	390.0	0	15000	Goldcrest	goldcr1	0.8840	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	387.0
+51	Spectrogram 1	1	396.0	399.0	0	15000	Goldcrest	goldcr1	0.6183	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	396.0
+52	Spectrogram 1	1	399.0	402.0	0	15000	Goldcrest	goldcr1	0.7725	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	399.0
+53	Spectrogram 1	1	408.0	411.0	0	15000	Goldcrest	goldcr1	0.8642	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	408.0
+54	Spectrogram 1	1	417.0	420.0	0	15000	Goldcrest	goldcr1	0.8432	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	417.0
+55	Spectrogram 1	1	420.0	423.0	0	15000	Goldcrest	goldcr1	0.6063	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	420.0
+56	Spectrogram 1	1	426.0	429.0	0	15000	Goldcrest	goldcr1	0.8388	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	426.0
+57	Spectrogram 1	1	435.0	438.0	0	15000	Goldcrest	goldcr1	0.6728	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	435.0
+58	Spectrogram 1	1	441.0	444.0	0	15000	Goldcrest	goldcr1	0.8364	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	441.0
+59	Spectrogram 1	1	444.0	447.0	0	15000	Goldcrest	goldcr1	0.6839	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	444.0
+60	Spectrogram 1	1	456.0	459.0	0	15000	Goldcrest	goldcr1	0.6584	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	456.0
+61	Spectrogram 1	1	462.0	465.0	0	15000	Goldcrest	goldcr1	0.5437	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	462.0
+62	Spectrogram 1	1	474.0	477.0	0	15000	Goldcrest	goldcr1	0.5110	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	474.0
+63	Spectrogram 1	1	495.0	498.0	0	15000	Goldcrest	goldcr1	0.6872	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	495.0
+64	Spectrogram 1	1	501.0	504.0	0	15000	Goldcrest	goldcr1	0.6063	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	501.0
+65	Spectrogram 1	1	516.0	519.0	0	15000	Goldcrest	goldcr1	0.5286	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	516.0
+66	Spectrogram 1	1	525.0	528.0	0	15000	Goldcrest	goldcr1	0.9098	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	525.0
+67	Spectrogram 1	1	534.0	537.0	0	15000	Goldcrest	goldcr1	0.6186	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	534.0
+68	Spectrogram 1	1	543.0	546.0	0	15000	Goldcrest	goldcr1	0.8269	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	543.0
+69	Spectrogram 1	1	618.0	621.0	0	15000	Goldcrest	goldcr1	0.6732	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	618.0
+70	Spectrogram 1	1	633.0	636.0	0	15000	Goldcrest	goldcr1	0.6754	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	633.0
+71	Spectrogram 1	1	666.0	669.0	0	15000	Goldcrest	goldcr1	0.6089	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	666.0
+72	Spectrogram 1	1	669.0	672.0	0	15000	Goldcrest	goldcr1	0.7240	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	669.0
+73	Spectrogram 1	1	675.0	678.0	0	15000	Goldcrest	goldcr1	0.7076	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	675.0
+74	Spectrogram 1	1	705.0	708.0	0	15000	Goldcrest	goldcr1	0.8441	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	705.0
+75	Spectrogram 1	1	726.0	729.0	0	15000	Song Thrush	sonthr1	0.6310	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	726.0
+76	Spectrogram 1	1	747.0	750.0	0	15000	Goldcrest	goldcr1	0.5422	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	747.0
+77	Spectrogram 1	1	774.0	777.0	0	15000	Goldcrest	goldcr1	0.8348	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	774.0
+78	Spectrogram 1	1	783.0	786.0	0	15000	Goldcrest	goldcr1	0.5320	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	783.0
+79	Spectrogram 1	1	822.0	825.0	0	15000	Goldcrest	goldcr1	0.9102	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	822.0
+80	Spectrogram 1	1	852.0	855.0	0	15000	Eurasian Nuthatch	eurnut2	0.8358	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	852.0
+81	Spectrogram 1	1	867.0	870.0	0	15000	Goldcrest	goldcr1	0.7233	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	867.0
+82	Spectrogram 1	1	870.0	873.0	0	15000	Goldcrest	goldcr1	0.6254	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	870.0
+83	Spectrogram 1	1	876.0	879.0	0	15000	Goldcrest	goldcr1	0.6825	.\sounds\realsound\red\red3\20260208\20260208_100000.WAV	876.0

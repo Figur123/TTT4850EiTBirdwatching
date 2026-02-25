@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	645.0	648.0	0	15000	Coal Tit	coatit2	0.8405	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	645.0
+2	Spectrogram 1	1	648.0	651.0	0	15000	Coal Tit	coatit2	0.6580	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	648.0
+3	Spectrogram 1	1	657.0	660.0	0	15000	Coal Tit	coatit2	0.8451	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	657.0
+4	Spectrogram 1	1	663.0	666.0	0	15000	Coal Tit	coatit2	0.5336	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	663.0
+5	Spectrogram 1	1	675.0	678.0	0	15000	Coal Tit	coatit2	0.6734	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	675.0
+6	Spectrogram 1	1	690.0	693.0	0	15000	Coal Tit	coatit2	0.5626	.\sounds\realsound\red\red2\20260206\20260206_100000.WAV	690.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	219.0	222.0	0	15000	Long-eared Owl	loeowl	0.6310	.\sounds\realsound\red\red1\20260214\20260214_130000.WAV	219.0
+2	Spectrogram 1	1	819.0	822.0	0	15000	Great Bittern	grebit1	0.5977	.\sounds\realsound\red\red1\20260214\20260214_130000.WAV	819.0
+3	Spectrogram 1	1	858.0	861.0	0	15000	Common Eider	comeid	0.7081	.\sounds\realsound\red\red1\20260214\20260214_130000.WAV	858.0

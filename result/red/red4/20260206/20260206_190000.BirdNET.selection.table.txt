@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	786.0	789.0	0	15000	Song Thrush	sonthr1	0.9573	.\sounds\realsound\red\red4\20260206\20260206_190000.WAV	786.0

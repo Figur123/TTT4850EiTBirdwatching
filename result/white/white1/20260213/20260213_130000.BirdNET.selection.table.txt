@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	162.0	165.0	0	15000	Tawny Owl	tawowl1	0.5427	.\sounds\realsound\white\white1\20260213\20260213_130000.WAV	162.0

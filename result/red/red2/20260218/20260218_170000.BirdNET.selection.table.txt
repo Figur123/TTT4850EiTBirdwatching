@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	723.0	726.0	0	15000	Common Raven	comrav	0.5003	.\sounds\realsound\red\red2\20260218\20260218_170000.WAV	723.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	15000	Eurasian Jay	eurjay1	0.7958	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	24.0
+2	Spectrogram 1	1	27.0	30.0	0	15000	Eurasian Jay	eurjay1	0.9280	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	27.0
+3	Spectrogram 1	1	33.0	36.0	0	15000	Eurasian Jay	eurjay1	0.7705	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	33.0
+4	Spectrogram 1	1	36.0	39.0	0	15000	Eurasian Jay	eurjay1	0.5082	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	36.0
+5	Spectrogram 1	1	48.0	51.0	0	15000	Eurasian Jay	eurjay1	0.8647	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	48.0
+6	Spectrogram 1	1	51.0	54.0	0	15000	Eurasian Jay	eurjay1	0.8760	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	51.0
+7	Spectrogram 1	1	345.0	348.0	0	15000	Eurasian Curlew	eurcur	0.5636	.\sounds\realsound\red\red1\20260214\20260214_100000.WAV	345.0

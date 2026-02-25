@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	30.0	33.0	0	15000	Coal Tit	coatit2	0.7895	.\sounds\realsound\white\white2\20260207\20260207_080000.WAV	30.0
+2	Spectrogram 1	1	33.0	36.0	0	15000	Coal Tit	coatit2	0.5629	.\sounds\realsound\white\white2\20260207\20260207_080000.WAV	33.0
+3	Spectrogram 1	1	42.0	45.0	0	15000	Coal Tit	coatit2	0.6576	.\sounds\realsound\white\white2\20260207\20260207_080000.WAV	42.0
+4	Spectrogram 1	1	672.0	675.0	0	15000	Eurasian Bullfinch	eurbul	0.8108	.\sounds\realsound\white\white2\20260207\20260207_080000.WAV	672.0
+5	Spectrogram 1	1	675.0	678.0	0	15000	Eurasian Bullfinch	eurbul	0.9340	.\sounds\realsound\white\white2\20260207\20260207_080000.WAV	675.0

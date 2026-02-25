@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	357.0	360.0	0	15000	Goldcrest	goldcr1	0.6292	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	357.0
+2	Spectrogram 1	1	537.0	540.0	0	15000	Goldcrest	goldcr1	0.8316	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	537.0
+3	Spectrogram 1	1	540.0	543.0	0	15000	Goldcrest	goldcr1	0.7086	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	540.0
+4	Spectrogram 1	1	543.0	546.0	0	15000	Goldcrest	goldcr1	0.5409	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	543.0
+5	Spectrogram 1	1	573.0	576.0	0	15000	Goldcrest	goldcr1	0.6151	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	573.0
+6	Spectrogram 1	1	606.0	609.0	0	15000	Goldcrest	goldcr1	0.7038	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	606.0
+7	Spectrogram 1	1	630.0	633.0	0	15000	Goldcrest	goldcr1	0.8901	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	630.0
+8	Spectrogram 1	1	666.0	669.0	0	15000	Goldcrest	goldcr1	0.7299	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	666.0
+9	Spectrogram 1	1	672.0	675.0	0	15000	Goldcrest	goldcr1	0.6653	.\sounds\realsound\white\white2\20260212\20260212_110000.WAV	672.0

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	15000	Great Bittern	grebit1	0.8096	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	24.0
+2	Spectrogram 1	1	345.0	348.0	0	15000	Eurasian Nuthatch	eurnut2	0.9763	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	345.0
+3	Spectrogram 1	1	348.0	351.0	0	15000	Eurasian Nuthatch	eurnut2	0.7082	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	348.0
+4	Spectrogram 1	1	354.0	357.0	0	15000	Eurasian Nuthatch	eurnut2	0.6447	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	354.0
+5	Spectrogram 1	1	357.0	360.0	0	15000	Eurasian Nuthatch	eurnut2	0.9129	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	357.0
+6	Spectrogram 1	1	360.0	363.0	0	15000	Eurasian Nuthatch	eurnut2	0.9816	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	360.0
+7	Spectrogram 1	1	363.0	366.0	0	15000	Eurasian Nuthatch	eurnut2	0.8465	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	363.0
+8	Spectrogram 1	1	369.0	372.0	0	15000	Eurasian Nuthatch	eurnut2	0.5030	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	369.0
+9	Spectrogram 1	1	372.0	375.0	0	15000	Eurasian Nuthatch	eurnut2	0.9358	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	372.0
+10	Spectrogram 1	1	384.0	387.0	0	15000	Eurasian Nuthatch	eurnut2	0.8828	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	384.0
+11	Spectrogram 1	1	387.0	390.0	0	15000	Eurasian Nuthatch	eurnut2	0.9440	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	387.0
+12	Spectrogram 1	1	405.0	408.0	0	15000	Eurasian Nuthatch	eurnut2	0.5031	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	405.0
+13	Spectrogram 1	1	603.0	606.0	0	15000	Spotted Crake	spocra1	0.5107	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	603.0
+14	Spectrogram 1	1	864.0	867.0	0	15000	Coal Tit	coatit2	0.7313	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	864.0
+15	Spectrogram 1	1	876.0	879.0	0	15000	Coal Tit	coatit2	0.8231	.\sounds\realsound\red\red4\20260206\20260206_130000.WAV	876.0

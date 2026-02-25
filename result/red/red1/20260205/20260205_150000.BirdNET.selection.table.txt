@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	444.0	447.0	0	15000	Common Raven	comrav	0.7360	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	444.0
+2	Spectrogram 1	1	477.0	480.0	0	15000	Common Raven	comrav	0.6604	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	477.0
+3	Spectrogram 1	1	483.0	486.0	0	15000	Common Raven	comrav	0.8283	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	483.0
+4	Spectrogram 1	1	549.0	552.0	0	15000	Common Raven	comrav	0.5676	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	549.0
+5	Spectrogram 1	1	564.0	567.0	0	15000	Common Raven	comrav	0.7666	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	564.0
+6	Spectrogram 1	1	579.0	582.0	0	15000	Common Raven	comrav	0.6908	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	579.0
+7	Spectrogram 1	1	699.0	702.0	0	15000	Tawny Owl	tawowl1	0.6144	.\sounds\realsound\red\red1\20260205\20260205_150000.WAV	699.0

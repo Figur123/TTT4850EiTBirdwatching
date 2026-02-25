@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	333.0	336.0	0	15000	Common Greenshank	comgre	0.8241	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	333.0
+2	Spectrogram 1	1	348.0	351.0	0	15000	Eurasian Bullfinch	eurbul	0.6183	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	348.0
+3	Spectrogram 1	1	354.0	357.0	0	15000	Eurasian Bullfinch	eurbul	0.8251	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	354.0
+4	Spectrogram 1	1	357.0	360.0	0	15000	Eurasian Bullfinch	eurbul	0.8938	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	357.0
+5	Spectrogram 1	1	366.0	369.0	0	15000	Eurasian Bullfinch	eurbul	0.6963	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	366.0
+6	Spectrogram 1	1	369.0	372.0	0	15000	Eurasian Bullfinch	eurbul	0.5044	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	369.0
+7	Spectrogram 1	1	870.0	873.0	0	15000	European Golden-Plover	eugplo	0.5472	.\sounds\realsound\red\red2\20260210\20260210_080000.WAV	870.0

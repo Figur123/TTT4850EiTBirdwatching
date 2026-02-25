@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	201.0	204.0	0	15000	Carrion Crow	carcro1	0.5121	.\sounds\realsound\red\red4\20260209\20260209_110000.WAV	201.0
+2	Spectrogram 1	1	654.0	657.0	0	15000	Common Raven	comrav	0.9097	.\sounds\realsound\red\red4\20260209\20260209_110000.WAV	654.0
+3	Spectrogram 1	1	828.0	831.0	0	15000	Long-eared Owl	loeowl	0.6262	.\sounds\realsound\red\red4\20260209\20260209_110000.WAV	828.0
+4	Spectrogram 1	1	828.0	831.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.5307	.\sounds\realsound\red\red4\20260209\20260209_110000.WAV	828.0

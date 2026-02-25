@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	324.0	327.0	0	15000	Tawny Owl	tawowl1	0.5107	.\sounds\realsound\red\red4\20260208\20260208_130000.WAV	324.0
+2	Spectrogram 1	1	540.0	543.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.6945	.\sounds\realsound\red\red4\20260208\20260208_130000.WAV	540.0
+3	Spectrogram 1	1	663.0	666.0	0	15000	Tawny Owl	tawowl1	0.6894	.\sounds\realsound\red\red4\20260208\20260208_130000.WAV	663.0
+4	Spectrogram 1	1	777.0	780.0	0	15000	Tawny Owl	tawowl1	0.7283	.\sounds\realsound\red\red4\20260208\20260208_130000.WAV	777.0

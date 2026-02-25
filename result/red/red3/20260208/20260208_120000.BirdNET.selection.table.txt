@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	882.0	885.0	0	15000	Hooded Crow	hoocro1	0.6016	.\sounds\realsound\red\red3\20260208\20260208_120000.WAV	882.0
