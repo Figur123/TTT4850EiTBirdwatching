@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	468.0	471.0	0	15000	Crested Tit	cretit2	0.6042	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	468.0
+2	Spectrogram 1	1	474.0	477.0	0	15000	Crested Tit	cretit2	0.9831	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	474.0
+3	Spectrogram 1	1	498.0	501.0	0	15000	Crested Tit	cretit2	0.6181	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	498.0
+4	Spectrogram 1	1	513.0	516.0	0	15000	Crested Tit	cretit2	0.9824	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	513.0
+5	Spectrogram 1	1	516.0	519.0	0	15000	Crested Tit	cretit2	0.9928	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	516.0
+6	Spectrogram 1	1	570.0	573.0	0	15000	Crested Tit	cretit2	0.7254	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	570.0
+7	Spectrogram 1	1	666.0	669.0	0	15000	Goldcrest	goldcr1	0.5212	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	666.0
+8	Spectrogram 1	1	720.0	723.0	0	15000	Goldcrest	goldcr1	0.5108	.\sounds\realsound\white\white3\20260216\20260216_070000.WAV	720.0

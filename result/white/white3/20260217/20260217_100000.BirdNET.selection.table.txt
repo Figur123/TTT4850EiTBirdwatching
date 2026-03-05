@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	411.0	414.0	0	15000	Common Wood-Pigeon	cowpig1	0.9788	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	411.0
+2	Spectrogram 1	1	414.0	417.0	0	15000	Common Wood-Pigeon	cowpig1	0.9889	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	414.0
+3	Spectrogram 1	1	438.0	441.0	0	15000	Common Wood-Pigeon	cowpig1	0.8850	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	438.0
+4	Spectrogram 1	1	441.0	444.0	0	15000	Common Wood-Pigeon	cowpig1	0.9508	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	441.0
+5	Spectrogram 1	1	471.0	474.0	0	15000	Common Wood-Pigeon	cowpig1	0.5582	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	471.0
+6	Spectrogram 1	1	474.0	477.0	0	15000	Common Wood-Pigeon	cowpig1	0.8901	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	474.0
+7	Spectrogram 1	1	783.0	786.0	0	15000	Common Wood-Pigeon	cowpig1	0.6805	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	783.0
+8	Spectrogram 1	1	786.0	789.0	0	15000	Common Wood-Pigeon	cowpig1	0.5268	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	786.0
+9	Spectrogram 1	1	789.0	792.0	0	15000	Common Wood-Pigeon	cowpig1	0.8915	.\sounds\realsound\white\white3\20260217\20260217_100000.WAV	789.0

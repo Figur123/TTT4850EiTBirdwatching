@@ -1,0 +1,50 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	15000	Black Woodpecker	blawoo1	0.9961	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	18.0
+2	Spectrogram 1	1	156.0	159.0	0	15000	Goldcrest	goldcr1	0.5765	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	156.0
+3	Spectrogram 1	1	159.0	162.0	0	15000	Goldcrest	goldcr1	0.5782	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	159.0
+4	Spectrogram 1	1	261.0	264.0	0	15000	Great Spotted Woodpecker	grswoo	0.8612	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	261.0
+5	Spectrogram 1	1	264.0	267.0	0	15000	Great Spotted Woodpecker	grswoo	0.8426	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	264.0
+6	Spectrogram 1	1	267.0	270.0	0	15000	Great Spotted Woodpecker	grswoo	0.8298	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	267.0
+7	Spectrogram 1	1	270.0	273.0	0	15000	Great Spotted Woodpecker	grswoo	0.7637	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	270.0
+8	Spectrogram 1	1	273.0	276.0	0	15000	Great Spotted Woodpecker	grswoo	0.9269	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	273.0
+9	Spectrogram 1	1	276.0	279.0	0	15000	Great Spotted Woodpecker	grswoo	0.7068	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	276.0
+10	Spectrogram 1	1	279.0	282.0	0	15000	Great Spotted Woodpecker	grswoo	0.8177	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	279.0
+11	Spectrogram 1	1	282.0	285.0	0	15000	Great Spotted Woodpecker	grswoo	0.9607	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	282.0
+12	Spectrogram 1	1	285.0	288.0	0	15000	Great Spotted Woodpecker	grswoo	0.6267	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	285.0
+13	Spectrogram 1	1	288.0	291.0	0	15000	Great Spotted Woodpecker	grswoo	0.7555	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	288.0
+14	Spectrogram 1	1	291.0	294.0	0	15000	Great Spotted Woodpecker	grswoo	0.8865	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	291.0
+15	Spectrogram 1	1	291.0	294.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.5649	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	291.0
+16	Spectrogram 1	1	294.0	297.0	0	15000	Great Spotted Woodpecker	grswoo	0.8910	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	294.0
+17	Spectrogram 1	1	297.0	300.0	0	15000	Great Spotted Woodpecker	grswoo	0.8950	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	297.0
+18	Spectrogram 1	1	300.0	303.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.8729	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	300.0
+19	Spectrogram 1	1	300.0	303.0	0	15000	Great Spotted Woodpecker	grswoo	0.7525	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	300.0
+20	Spectrogram 1	1	303.0	306.0	0	15000	Great Spotted Woodpecker	grswoo	0.8694	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	303.0
+21	Spectrogram 1	1	306.0	309.0	0	15000	Great Spotted Woodpecker	grswoo	0.8966	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	306.0
+22	Spectrogram 1	1	309.0	312.0	0	15000	Great Spotted Woodpecker	grswoo	0.6299	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	309.0
+23	Spectrogram 1	1	312.0	315.0	0	15000	Great Spotted Woodpecker	grswoo	0.6996	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	312.0
+24	Spectrogram 1	1	315.0	318.0	0	15000	Great Spotted Woodpecker	grswoo	0.7601	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	315.0
+25	Spectrogram 1	1	318.0	321.0	0	15000	Great Spotted Woodpecker	grswoo	0.7392	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	318.0
+26	Spectrogram 1	1	324.0	327.0	0	15000	Great Spotted Woodpecker	grswoo	0.7269	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	324.0
+27	Spectrogram 1	1	324.0	327.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.5073	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	324.0
+28	Spectrogram 1	1	327.0	330.0	0	15000	Great Spotted Woodpecker	grswoo	0.8508	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	327.0
+29	Spectrogram 1	1	333.0	336.0	0	15000	Great Spotted Woodpecker	grswoo	0.8934	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	333.0
+30	Spectrogram 1	1	333.0	336.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.5023	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	333.0
+31	Spectrogram 1	1	336.0	339.0	0	15000	Great Spotted Woodpecker	grswoo	0.6523	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	336.0
+32	Spectrogram 1	1	342.0	345.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.7290	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	342.0
+33	Spectrogram 1	1	342.0	345.0	0	15000	Great Spotted Woodpecker	grswoo	0.6972	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	342.0
+34	Spectrogram 1	1	345.0	348.0	0	15000	Great Spotted Woodpecker	grswoo	0.5244	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	345.0
+35	Spectrogram 1	1	354.0	357.0	0	15000	Great Spotted Woodpecker	grswoo	0.5902	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	354.0
+36	Spectrogram 1	1	354.0	357.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.5354	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	354.0
+37	Spectrogram 1	1	357.0	360.0	0	15000	Great Spotted Woodpecker	grswoo	0.5913	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	357.0
+38	Spectrogram 1	1	363.0	366.0	0	15000	Great Spotted Woodpecker	grswoo	0.8480	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	363.0
+39	Spectrogram 1	1	363.0	366.0	0	15000	Lesser Spotted Woodpecker	leswoo1	0.5375	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	363.0
+40	Spectrogram 1	1	366.0	369.0	0	15000	Great Spotted Woodpecker	grswoo	0.9436	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	366.0
+41	Spectrogram 1	1	369.0	372.0	0	15000	Great Spotted Woodpecker	grswoo	0.9140	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	369.0
+42	Spectrogram 1	1	372.0	375.0	0	15000	Great Spotted Woodpecker	grswoo	0.6841	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	372.0
+43	Spectrogram 1	1	384.0	387.0	0	15000	Eurasian Coot	eurcoo	0.5499	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	384.0
+44	Spectrogram 1	1	444.0	447.0	0	15000	Eurasian Bullfinch	eurbul	0.8480	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	444.0
+45	Spectrogram 1	1	447.0	450.0	0	15000	Eurasian Bullfinch	eurbul	0.6120	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	447.0
+46	Spectrogram 1	1	450.0	453.0	0	15000	Eurasian Bullfinch	eurbul	0.9870	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	450.0
+47	Spectrogram 1	1	453.0	456.0	0	15000	Eurasian Bullfinch	eurbul	0.5963	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	453.0
+48	Spectrogram 1	1	582.0	585.0	0	15000	Black Woodpecker	blawoo1	0.9997	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	582.0
+49	Spectrogram 1	1	585.0	588.0	0	15000	Black Woodpecker	blawoo1	0.9929	.\sounds\realsound\white\white3\20260211\20260211_080000.WAV	585.0

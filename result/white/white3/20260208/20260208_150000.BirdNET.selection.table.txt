@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	15000	Black Woodpecker	blawoo1	0.8788	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	15.0
+2	Spectrogram 1	1	222.0	225.0	0	15000	Eurasian Treecreeper	eurtre1	0.7010	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	222.0
+3	Spectrogram 1	1	306.0	309.0	0	15000	Redwing	redwin	0.5915	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	306.0
+4	Spectrogram 1	1	354.0	357.0	0	15000	Eurasian Treecreeper	eurtre1	0.7795	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	354.0
+5	Spectrogram 1	1	501.0	504.0	0	15000	Tawny Owl	tawowl1	0.7981	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	501.0
+6	Spectrogram 1	1	567.0	570.0	0	15000	Eurasian Treecreeper	eurtre1	0.8663	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	567.0
+7	Spectrogram 1	1	576.0	579.0	0	15000	Eurasian Treecreeper	eurtre1	0.9563	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	576.0
+8	Spectrogram 1	1	585.0	588.0	0	15000	Eurasian Treecreeper	eurtre1	0.9379	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	585.0
+9	Spectrogram 1	1	588.0	591.0	0	15000	Eurasian Treecreeper	eurtre1	0.7978	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	588.0
+10	Spectrogram 1	1	642.0	645.0	0	15000	Eurasian Treecreeper	eurtre1	0.8662	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	642.0
+11	Spectrogram 1	1	654.0	657.0	0	15000	Eurasian Treecreeper	eurtre1	0.8032	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	654.0
+12	Spectrogram 1	1	663.0	666.0	0	15000	Eurasian Treecreeper	eurtre1	0.7437	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	663.0
+13	Spectrogram 1	1	669.0	672.0	0	15000	Eurasian Treecreeper	eurtre1	0.9805	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	669.0
+14	Spectrogram 1	1	672.0	675.0	0	15000	Eurasian Treecreeper	eurtre1	0.6782	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	672.0
+15	Spectrogram 1	1	684.0	687.0	0	15000	Eurasian Treecreeper	eurtre1	0.6898	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	684.0
+16	Spectrogram 1	1	687.0	690.0	0	15000	Eurasian Treecreeper	eurtre1	0.8580	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	687.0
+17	Spectrogram 1	1	690.0	693.0	0	15000	Eurasian Treecreeper	eurtre1	0.9011	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	690.0
+18	Spectrogram 1	1	693.0	696.0	0	15000	Eurasian Treecreeper	eurtre1	0.8905	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	693.0
+19	Spectrogram 1	1	696.0	699.0	0	15000	Eurasian Treecreeper	eurtre1	0.8233	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	696.0
+20	Spectrogram 1	1	732.0	735.0	0	15000	Eurasian Treecreeper	eurtre1	0.7599	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	732.0
+21	Spectrogram 1	1	786.0	789.0	0	15000	Eurasian Treecreeper	eurtre1	0.7622	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	786.0
+22	Spectrogram 1	1	789.0	792.0	0	15000	Eurasian Treecreeper	eurtre1	0.6795	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	789.0
+23	Spectrogram 1	1	798.0	801.0	0	15000	Eurasian Treecreeper	eurtre1	0.8066	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	798.0
+24	Spectrogram 1	1	813.0	816.0	0	15000	Eurasian Treecreeper	eurtre1	0.8412	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	813.0
+25	Spectrogram 1	1	894.0	897.0	0	15000	Eurasian Treecreeper	eurtre1	0.7121	.\sounds\realsound\white\white3\20260208\20260208_150000.WAV	894.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	156.0	159.0	0	15000	Eurasian Bullfinch	eurbul	0.9280	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	156.0
+2	Spectrogram 1	1	201.0	204.0	0	15000	Eurasian Bullfinch	eurbul	0.7961	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	201.0
+3	Spectrogram 1	1	204.0	207.0	0	15000	Eurasian Bullfinch	eurbul	0.8810	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	204.0
+4	Spectrogram 1	1	216.0	219.0	0	15000	Eurasian Bullfinch	eurbul	0.7705	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	216.0
+5	Spectrogram 1	1	222.0	225.0	0	15000	Eurasian Dotterel	eurdot	0.5588	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	222.0
+6	Spectrogram 1	1	225.0	228.0	0	15000	Eurasian Bullfinch	eurbul	0.6256	.\sounds\realsound\white\white4\20260214\20260214_150000.WAV	225.0

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	651.0	654.0	0	15000	Spotted Crake	spocra1	0.5261	.\sounds\realsound\white\white2\20260213\20260213_230000.WAV	651.0

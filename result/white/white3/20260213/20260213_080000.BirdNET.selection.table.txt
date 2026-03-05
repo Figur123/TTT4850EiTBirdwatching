@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	141.0	144.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.7181	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	141.0
+2	Spectrogram 1	1	249.0	252.0	0	15000	Eurasian Siskin	eursis	0.6324	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	249.0
+3	Spectrogram 1	1	288.0	291.0	0	15000	Eurasian Bullfinch	eurbul	0.6969	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	288.0
+4	Spectrogram 1	1	291.0	294.0	0	15000	Eurasian Bullfinch	eurbul	0.8556	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	291.0
+5	Spectrogram 1	1	294.0	297.0	0	15000	Eurasian Bullfinch	eurbul	0.8319	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	294.0
+6	Spectrogram 1	1	297.0	300.0	0	15000	Eurasian Bullfinch	eurbul	0.9535	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	297.0
+7	Spectrogram 1	1	300.0	303.0	0	15000	Eurasian Bullfinch	eurbul	0.9381	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	300.0
+8	Spectrogram 1	1	303.0	306.0	0	15000	Eurasian Bullfinch	eurbul	0.8715	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	303.0
+9	Spectrogram 1	1	372.0	375.0	0	15000	Long-eared Owl	loeowl	0.9210	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	372.0
+10	Spectrogram 1	1	387.0	390.0	0	15000	Eurasian Bullfinch	eurbul	0.7784	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	387.0
+11	Spectrogram 1	1	390.0	393.0	0	15000	Eurasian Bullfinch	eurbul	0.8022	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	390.0
+12	Spectrogram 1	1	753.0	756.0	0	15000	Ural Owl	uraowl1	0.6261	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	753.0
+13	Spectrogram 1	1	768.0	771.0	0	15000	Eurasian Siskin	eursis	0.6332	.\sounds\realsound\white\white3\20260213\20260213_080000.WAV	768.0

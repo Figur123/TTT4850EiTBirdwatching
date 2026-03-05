@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	15000	Goldcrest	goldcr1	0.5110	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	3.0
+2	Spectrogram 1	1	6.0	9.0	0	15000	Goldcrest	goldcr1	0.5615	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	6.0
+3	Spectrogram 1	1	15.0	18.0	0	15000	Goldcrest	goldcr1	0.7473	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	15.0
+4	Spectrogram 1	1	87.0	90.0	0	15000	Goldcrest	goldcr1	0.5571	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	87.0
+5	Spectrogram 1	1	90.0	93.0	0	15000	Goldcrest	goldcr1	0.5064	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	90.0
+6	Spectrogram 1	1	108.0	111.0	0	15000	Goldcrest	goldcr1	0.7517	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	108.0
+7	Spectrogram 1	1	153.0	156.0	0	15000	Goldcrest	goldcr1	0.6447	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	153.0
+8	Spectrogram 1	1	186.0	189.0	0	15000	Goldcrest	goldcr1	0.5349	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	186.0
+9	Spectrogram 1	1	210.0	213.0	0	15000	Goldcrest	goldcr1	0.5814	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	210.0
+10	Spectrogram 1	1	216.0	219.0	0	15000	Goldcrest	goldcr1	0.5005	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	216.0
+11	Spectrogram 1	1	231.0	234.0	0	15000	Goldcrest	goldcr1	0.7497	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	231.0
+12	Spectrogram 1	1	243.0	246.0	0	15000	Goldcrest	goldcr1	0.5019	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	243.0
+13	Spectrogram 1	1	249.0	252.0	0	15000	Goldcrest	goldcr1	0.6713	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	249.0
+14	Spectrogram 1	1	273.0	276.0	0	15000	Goldcrest	goldcr1	0.5651	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	273.0
+15	Spectrogram 1	1	288.0	291.0	0	15000	Tawny Owl	tawowl1	0.9193	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	288.0
+16	Spectrogram 1	1	318.0	321.0	0	15000	Goldcrest	goldcr1	0.5224	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	318.0
+17	Spectrogram 1	1	363.0	366.0	0	15000	Goldcrest	goldcr1	0.7968	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	363.0
+18	Spectrogram 1	1	414.0	417.0	0	15000	Goldcrest	goldcr1	0.5517	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	414.0
+19	Spectrogram 1	1	444.0	447.0	0	15000	Song Thrush	sonthr1	0.7505	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	444.0
+20	Spectrogram 1	1	444.0	447.0	0	15000	Goldcrest	goldcr1	0.5002	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	444.0
+21	Spectrogram 1	1	489.0	492.0	0	15000	Goldcrest	goldcr1	0.5522	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	489.0
+22	Spectrogram 1	1	510.0	513.0	0	15000	Goldcrest	goldcr1	0.6436	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	510.0
+23	Spectrogram 1	1	675.0	678.0	0	15000	Goldcrest	goldcr1	0.6482	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	675.0
+24	Spectrogram 1	1	708.0	711.0	0	15000	Tawny Owl	tawowl1	0.5134	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	708.0
+25	Spectrogram 1	1	714.0	717.0	0	15000	Goldcrest	goldcr1	0.5093	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	714.0
+26	Spectrogram 1	1	720.0	723.0	0	15000	Goldcrest	goldcr1	0.5439	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	720.0
+27	Spectrogram 1	1	759.0	762.0	0	15000	Goldcrest	goldcr1	0.6888	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	759.0
+28	Spectrogram 1	1	768.0	771.0	0	15000	Goldcrest	goldcr1	0.6328	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	768.0
+29	Spectrogram 1	1	819.0	822.0	0	15000	Goldcrest	goldcr1	0.6790	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	819.0
+30	Spectrogram 1	1	897.0	900.0	0	15000	Common Loon	comloo	0.5460	.\sounds\realsound\white\white4\20260213\20260213_100000.WAV	897.0

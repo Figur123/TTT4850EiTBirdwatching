@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	585.0	588.0	0	15000	Eurasian Treecreeper	eurtre1	0.5259	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	585.0
+2	Spectrogram 1	1	588.0	591.0	0	15000	Eurasian Treecreeper	eurtre1	0.5494	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	588.0
+3	Spectrogram 1	1	591.0	594.0	0	15000	Eurasian Treecreeper	eurtre1	0.5993	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	591.0
+4	Spectrogram 1	1	594.0	597.0	0	15000	Eurasian Treecreeper	eurtre1	0.6017	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	594.0
+5	Spectrogram 1	1	606.0	609.0	0	15000	Eurasian Treecreeper	eurtre1	0.8495	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	606.0
+6	Spectrogram 1	1	609.0	612.0	0	15000	Eurasian Treecreeper	eurtre1	0.8033	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	609.0
+7	Spectrogram 1	1	612.0	615.0	0	15000	Eurasian Treecreeper	eurtre1	0.9246	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	612.0
+8	Spectrogram 1	1	615.0	618.0	0	15000	Eurasian Treecreeper	eurtre1	0.8222	.\sounds\realsound\white\white4\20260215\20260215_120000.WAV	615.0

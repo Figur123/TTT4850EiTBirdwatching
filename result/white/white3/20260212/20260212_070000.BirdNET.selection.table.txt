@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	150.0	153.0	0	15000	Song Thrush	sonthr1	0.5430	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	150.0
+2	Spectrogram 1	1	207.0	210.0	0	15000	Eurasian Bullfinch	eurbul	0.5215	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	207.0
+3	Spectrogram 1	1	225.0	228.0	0	15000	Eurasian Bullfinch	eurbul	0.9043	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	225.0
+4	Spectrogram 1	1	228.0	231.0	0	15000	Eurasian Bullfinch	eurbul	0.7169	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	228.0
+5	Spectrogram 1	1	231.0	234.0	0	15000	Eurasian Bullfinch	eurbul	0.7904	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	231.0
+6	Spectrogram 1	1	237.0	240.0	0	15000	Hooded Crow	hoocro1	0.8912	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	237.0
+7	Spectrogram 1	1	237.0	240.0	0	15000	Carrion Crow	carcro1	0.5453	.\sounds\realsound\white\white3\20260212\20260212_070000.WAV	237.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	720.0	723.0	0	15000	Goldcrest	goldcr1	0.6307	.\sounds\realsound\white\white2\20260209\20260209_120000.WAV	720.0
+2	Spectrogram 1	1	741.0	744.0	0	15000	Eurasian Moorhen	commoo3	0.8190	.\sounds\realsound\white\white2\20260209\20260209_120000.WAV	741.0
+3	Spectrogram 1	1	831.0	834.0	0	15000	Goldcrest	goldcr1	0.5164	.\sounds\realsound\white\white2\20260209\20260209_120000.WAV	831.0

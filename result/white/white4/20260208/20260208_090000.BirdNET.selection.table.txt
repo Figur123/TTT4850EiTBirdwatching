@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	465.0	468.0	0	15000	Eurasian Treecreeper	eurtre1	0.5284	.\sounds\realsound\white\white4\20260208\20260208_090000.WAV	465.0
+2	Spectrogram 1	1	474.0	477.0	0	15000	Eurasian Treecreeper	eurtre1	0.5429	.\sounds\realsound\white\white4\20260208\20260208_090000.WAV	474.0
+3	Spectrogram 1	1	480.0	483.0	0	15000	Eurasian Treecreeper	eurtre1	0.5312	.\sounds\realsound\white\white4\20260208\20260208_090000.WAV	480.0
+4	Spectrogram 1	1	771.0	774.0	0	15000	Tawny Owl	tawowl1	0.5395	.\sounds\realsound\white\white4\20260208\20260208_090000.WAV	771.0

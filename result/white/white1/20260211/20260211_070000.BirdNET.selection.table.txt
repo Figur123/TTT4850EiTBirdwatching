@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	36.0	39.0	0	15000	Eurasian Nutcracker	eurnut1	0.6247	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	36.0
+2	Spectrogram 1	1	117.0	120.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.5476	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	117.0
+3	Spectrogram 1	1	405.0	408.0	0	15000	Eurasian Treecreeper	eurtre1	0.7252	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	405.0
+4	Spectrogram 1	1	435.0	438.0	0	15000	Eurasian Treecreeper	eurtre1	0.7455	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	435.0
+5	Spectrogram 1	1	636.0	639.0	0	15000	Eurasian Nutcracker	eurnut1	0.9030	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	636.0
+6	Spectrogram 1	1	639.0	642.0	0	15000	Eurasian Nutcracker	eurnut1	0.7238	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	639.0
+7	Spectrogram 1	1	675.0	678.0	0	15000	Eurasian Nutcracker	eurnut1	0.7114	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	675.0
+8	Spectrogram 1	1	699.0	702.0	0	15000	Eurasian Nutcracker	eurnut1	0.5372	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	699.0
+9	Spectrogram 1	1	717.0	720.0	0	15000	Eurasian Nutcracker	eurnut1	0.5097	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	717.0
+10	Spectrogram 1	1	732.0	735.0	0	15000	Eurasian Nutcracker	eurnut1	0.7361	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	732.0
+11	Spectrogram 1	1	771.0	774.0	0	15000	Eurasian Nutcracker	eurnut1	0.8213	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	771.0
+12	Spectrogram 1	1	789.0	792.0	0	15000	Eurasian Nutcracker	eurnut1	0.5996	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	789.0
+13	Spectrogram 1	1	888.0	891.0	0	15000	Eurasian Nutcracker	eurnut1	0.6258	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	888.0
+14	Spectrogram 1	1	891.0	894.0	0	15000	Eurasian Nutcracker	eurnut1	0.7170	.\sounds\realsound\white\white1\20260211\20260211_070000.WAV	891.0

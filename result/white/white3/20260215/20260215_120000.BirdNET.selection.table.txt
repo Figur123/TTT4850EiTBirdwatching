@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	351.0	354.0	0	15000	Willow Tit	wiltit1	0.9336	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	351.0
+2	Spectrogram 1	1	354.0	357.0	0	15000	Willow Tit	wiltit1	0.8094	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	354.0
+3	Spectrogram 1	1	357.0	360.0	0	15000	Willow Tit	wiltit1	0.7721	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	357.0
+4	Spectrogram 1	1	363.0	366.0	0	15000	Willow Tit	wiltit1	0.5566	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	363.0
+5	Spectrogram 1	1	366.0	369.0	0	15000	Willow Tit	wiltit1	0.8569	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	366.0
+6	Spectrogram 1	1	369.0	372.0	0	15000	Willow Tit	wiltit1	0.9356	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	369.0
+7	Spectrogram 1	1	372.0	375.0	0	15000	Willow Tit	wiltit1	0.7731	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	372.0
+8	Spectrogram 1	1	381.0	384.0	0	15000	Willow Tit	wiltit1	0.8019	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	381.0
+9	Spectrogram 1	1	384.0	387.0	0	15000	Willow Tit	wiltit1	0.9495	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	384.0
+10	Spectrogram 1	1	390.0	393.0	0	15000	Willow Tit	wiltit1	0.9067	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	390.0
+11	Spectrogram 1	1	393.0	396.0	0	15000	Willow Tit	wiltit1	0.8277	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	393.0
+12	Spectrogram 1	1	396.0	399.0	0	15000	Willow Tit	wiltit1	0.8678	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	396.0
+13	Spectrogram 1	1	399.0	402.0	0	15000	Willow Tit	wiltit1	0.7110	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	399.0
+14	Spectrogram 1	1	414.0	417.0	0	15000	Willow Tit	wiltit1	0.6693	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	414.0
+15	Spectrogram 1	1	417.0	420.0	0	15000	Willow Tit	wiltit1	0.9477	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	417.0
+16	Spectrogram 1	1	423.0	426.0	0	15000	Willow Tit	wiltit1	0.8713	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	423.0
+17	Spectrogram 1	1	435.0	438.0	0	15000	Willow Tit	wiltit1	0.7713	.\sounds\realsound\white\white3\20260215\20260215_120000.WAV	435.0

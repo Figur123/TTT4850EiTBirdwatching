@@ -1,0 +1,39 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	15000	Willow Tit	wiltit1	0.9876	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	3.0
+2	Spectrogram 1	1	9.0	12.0	0	15000	Willow Tit	wiltit1	0.9866	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	9.0
+3	Spectrogram 1	1	15.0	18.0	0	15000	Willow Tit	wiltit1	0.9783	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	15.0
+4	Spectrogram 1	1	21.0	24.0	0	15000	Willow Tit	wiltit1	0.9902	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	21.0
+5	Spectrogram 1	1	90.0	93.0	0	15000	Eurasian Bullfinch	eurbul	0.8701	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	90.0
+6	Spectrogram 1	1	93.0	96.0	0	15000	Eurasian Bullfinch	eurbul	0.6199	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	93.0
+7	Spectrogram 1	1	96.0	99.0	0	15000	Eurasian Bullfinch	eurbul	0.7932	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	96.0
+8	Spectrogram 1	1	102.0	105.0	0	15000	Eurasian Bullfinch	eurbul	0.5180	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	102.0
+9	Spectrogram 1	1	108.0	111.0	0	15000	Eurasian Bullfinch	eurbul	0.6363	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	108.0
+10	Spectrogram 1	1	114.0	117.0	0	15000	Eurasian Bullfinch	eurbul	0.9272	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	114.0
+11	Spectrogram 1	1	129.0	132.0	0	15000	Eurasian Bullfinch	eurbul	0.9173	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	129.0
+12	Spectrogram 1	1	135.0	138.0	0	15000	Green-winged Teal	gnwtea	0.6639	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	135.0
+13	Spectrogram 1	1	138.0	141.0	0	15000	Eurasian Bullfinch	eurbul	0.6244	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	138.0
+14	Spectrogram 1	1	150.0	153.0	0	15000	Eurasian Bullfinch	eurbul	0.5304	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	150.0
+15	Spectrogram 1	1	420.0	423.0	0	15000	Common Raven	comrav	0.9303	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	420.0
+16	Spectrogram 1	1	423.0	426.0	0	15000	Common Raven	comrav	0.7966	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	423.0
+17	Spectrogram 1	1	447.0	450.0	0	15000	Common Raven	comrav	0.9001	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	447.0
+18	Spectrogram 1	1	459.0	462.0	0	15000	Common Raven	comrav	0.7739	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	459.0
+19	Spectrogram 1	1	549.0	552.0	0	15000	Carrion Crow	carcro1	0.6638	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	549.0
+20	Spectrogram 1	1	564.0	567.0	0	15000	Carrion Crow	carcro1	0.6980	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	564.0
+21	Spectrogram 1	1	585.0	588.0	0	15000	Carrion Crow	carcro1	0.7739	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	585.0
+22	Spectrogram 1	1	621.0	624.0	0	15000	Goldcrest	goldcr1	0.5175	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	621.0
+23	Spectrogram 1	1	648.0	651.0	0	15000	Goldcrest	goldcr1	0.5445	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	648.0
+24	Spectrogram 1	1	747.0	750.0	0	15000	Goldcrest	goldcr1	0.5896	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	747.0
+25	Spectrogram 1	1	786.0	789.0	0	15000	Goldcrest	goldcr1	0.5977	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	786.0
+26	Spectrogram 1	1	798.0	801.0	0	15000	Goldcrest	goldcr1	0.5442	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	798.0
+27	Spectrogram 1	1	804.0	807.0	0	15000	Goldcrest	goldcr1	0.6480	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	804.0
+28	Spectrogram 1	1	807.0	810.0	0	15000	Goldcrest	goldcr1	0.7236	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	807.0
+29	Spectrogram 1	1	810.0	813.0	0	15000	Goldcrest	goldcr1	0.8409	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	810.0
+30	Spectrogram 1	1	813.0	816.0	0	15000	Goldcrest	goldcr1	0.9647	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	813.0
+31	Spectrogram 1	1	819.0	822.0	0	15000	Goldcrest	goldcr1	0.9674	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	819.0
+32	Spectrogram 1	1	822.0	825.0	0	15000	Eurasian Bullfinch	eurbul	0.9850	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	822.0
+33	Spectrogram 1	1	825.0	828.0	0	15000	Eurasian Bullfinch	eurbul	0.9952	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	825.0
+34	Spectrogram 1	1	828.0	831.0	0	15000	Eurasian Bullfinch	eurbul	0.9701	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	828.0
+35	Spectrogram 1	1	828.0	831.0	0	15000	Goldcrest	goldcr1	0.7602	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	828.0
+36	Spectrogram 1	1	885.0	888.0	0	15000	Goldcrest	goldcr1	0.5071	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	885.0
+37	Spectrogram 1	1	891.0	894.0	0	15000	Willow Tit	wiltit1	0.8806	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	891.0
+38	Spectrogram 1	1	897.0	900.0	0	15000	Willow Tit	wiltit1	0.8283	.\sounds\realsound\white\white4\20260210\20260210_070000.WAV	897.0

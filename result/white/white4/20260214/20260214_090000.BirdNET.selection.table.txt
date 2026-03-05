@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	357.0	360.0	0	15000	Eurasian Blue Tit	blutit	0.5449	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	357.0
+2	Spectrogram 1	1	378.0	381.0	0	15000	Eurasian Blue Tit	blutit	0.8148	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	378.0
+3	Spectrogram 1	1	384.0	387.0	0	15000	Eurasian Blue Tit	blutit	0.5401	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	384.0
+4	Spectrogram 1	1	390.0	393.0	0	15000	Eurasian Blue Tit	blutit	0.8807	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	390.0
+5	Spectrogram 1	1	396.0	399.0	0	15000	Common Sandpiper	comsan	0.5310	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	396.0
+6	Spectrogram 1	1	399.0	402.0	0	15000	Eurasian Blue Tit	blutit	0.8530	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	399.0
+7	Spectrogram 1	1	402.0	405.0	0	15000	Eurasian Blue Tit	blutit	0.5085	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	402.0
+8	Spectrogram 1	1	408.0	411.0	0	15000	Eurasian Blue Tit	blutit	0.6779	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	408.0
+9	Spectrogram 1	1	420.0	423.0	0	15000	Eurasian Blue Tit	blutit	0.7565	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	420.0
+10	Spectrogram 1	1	447.0	450.0	0	15000	Eurasian Blue Tit	blutit	0.7679	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	447.0
+11	Spectrogram 1	1	459.0	462.0	0	15000	Eurasian Blue Tit	blutit	0.8832	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	459.0
+12	Spectrogram 1	1	489.0	492.0	0	15000	Eurasian Blue Tit	blutit	0.9182	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	489.0
+13	Spectrogram 1	1	495.0	498.0	0	15000	Eurasian Blue Tit	blutit	0.8595	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	495.0
+14	Spectrogram 1	1	507.0	510.0	0	15000	Eurasian Blue Tit	blutit	0.5550	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	507.0
+15	Spectrogram 1	1	513.0	516.0	0	15000	Eurasian Blue Tit	blutit	0.9434	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	513.0
+16	Spectrogram 1	1	516.0	519.0	0	15000	Eurasian Blue Tit	blutit	0.9705	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	516.0
+17	Spectrogram 1	1	525.0	528.0	0	15000	Eurasian Blue Tit	blutit	0.9185	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	525.0
+18	Spectrogram 1	1	531.0	534.0	0	15000	Eurasian Blue Tit	blutit	0.8532	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	531.0
+19	Spectrogram 1	1	540.0	543.0	0	15000	Eurasian Blue Tit	blutit	0.8798	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	540.0
+20	Spectrogram 1	1	543.0	546.0	0	15000	Eurasian Blue Tit	blutit	0.8732	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	543.0
+21	Spectrogram 1	1	549.0	552.0	0	15000	Eurasian Blue Tit	blutit	0.6840	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	549.0
+22	Spectrogram 1	1	564.0	567.0	0	15000	Eurasian Blue Tit	blutit	0.6154	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	564.0
+23	Spectrogram 1	1	567.0	570.0	0	15000	Eurasian Blue Tit	blutit	0.7772	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	567.0
+24	Spectrogram 1	1	573.0	576.0	0	15000	Eurasian Blue Tit	blutit	0.5860	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	573.0
+25	Spectrogram 1	1	609.0	612.0	0	15000	Eurasian Blue Tit	blutit	0.6776	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	609.0
+26	Spectrogram 1	1	618.0	621.0	0	15000	Eurasian Blue Tit	blutit	0.6096	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	618.0
+27	Spectrogram 1	1	627.0	630.0	0	15000	Eurasian Blue Tit	blutit	0.6938	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	627.0
+28	Spectrogram 1	1	882.0	885.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.8915	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	882.0
+29	Spectrogram 1	1	882.0	885.0	0	15000	Long-eared Owl	loeowl	0.8836	.\sounds\realsound\white\white4\20260214\20260214_090000.WAV	882.0

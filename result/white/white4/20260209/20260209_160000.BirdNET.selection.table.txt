@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	96.0	99.0	0	15000	Long-eared Owl	loeowl	0.6467	.\sounds\realsound\white\white4\20260209\20260209_160000.WAV	96.0
+2	Spectrogram 1	1	99.0	102.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.7799	.\sounds\realsound\white\white4\20260209\20260209_160000.WAV	99.0
+3	Spectrogram 1	1	99.0	102.0	0	15000	Long-eared Owl	loeowl	0.5533	.\sounds\realsound\white\white4\20260209\20260209_160000.WAV	99.0

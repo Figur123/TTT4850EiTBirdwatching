@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	306.0	309.0	0	15000	Goldcrest	goldcr1	0.5662	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	306.0
+2	Spectrogram 1	1	516.0	519.0	0	15000	Song Thrush	sonthr1	0.8959	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	516.0
+3	Spectrogram 1	1	594.0	597.0	0	15000	Coal Tit	coatit2	0.6321	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	594.0
+4	Spectrogram 1	1	597.0	600.0	0	15000	Coal Tit	coatit2	0.7114	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	597.0
+5	Spectrogram 1	1	600.0	603.0	0	15000	Coal Tit	coatit2	0.7521	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	600.0
+6	Spectrogram 1	1	603.0	606.0	0	15000	Coal Tit	coatit2	0.8415	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	603.0
+7	Spectrogram 1	1	606.0	609.0	0	15000	Coal Tit	coatit2	0.9654	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	606.0
+8	Spectrogram 1	1	609.0	612.0	0	15000	Coal Tit	coatit2	0.9339	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	609.0
+9	Spectrogram 1	1	612.0	615.0	0	15000	Coal Tit	coatit2	0.9423	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	612.0
+10	Spectrogram 1	1	615.0	618.0	0	15000	Coal Tit	coatit2	0.9144	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	615.0
+11	Spectrogram 1	1	618.0	621.0	0	15000	Coal Tit	coatit2	0.9924	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	618.0
+12	Spectrogram 1	1	621.0	624.0	0	15000	Coal Tit	coatit2	0.9269	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	621.0
+13	Spectrogram 1	1	624.0	627.0	0	15000	Coal Tit	coatit2	0.6039	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	624.0
+14	Spectrogram 1	1	630.0	633.0	0	15000	Coal Tit	coatit2	0.9217	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	630.0
+15	Spectrogram 1	1	636.0	639.0	0	15000	Coal Tit	coatit2	0.6068	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	636.0
+16	Spectrogram 1	1	639.0	642.0	0	15000	Coal Tit	coatit2	0.9039	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	639.0
+17	Spectrogram 1	1	642.0	645.0	0	15000	Coal Tit	coatit2	0.8127	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	642.0
+18	Spectrogram 1	1	645.0	648.0	0	15000	Coal Tit	coatit2	0.5115	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	645.0
+19	Spectrogram 1	1	651.0	654.0	0	15000	Coal Tit	coatit2	0.5606	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	651.0
+20	Spectrogram 1	1	654.0	657.0	0	15000	Coal Tit	coatit2	0.8164	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	654.0
+21	Spectrogram 1	1	657.0	660.0	0	15000	Coal Tit	coatit2	0.8854	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	657.0
+22	Spectrogram 1	1	660.0	663.0	0	15000	Coal Tit	coatit2	0.9342	.\sounds\realsound\white\white3\20260206\20260206_120000.WAV	660.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	402.0	405.0	0	15000	Tawny Owl	tawowl1	0.6982	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	402.0
+2	Spectrogram 1	1	732.0	735.0	0	15000	Crested Tit	cretit2	0.9753	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	732.0
+3	Spectrogram 1	1	735.0	738.0	0	15000	Willow Tit	wiltit1	0.6466	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	735.0
+4	Spectrogram 1	1	738.0	741.0	0	15000	Crested Tit	cretit2	0.9397	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	738.0
+5	Spectrogram 1	1	747.0	750.0	0	15000	Crested Tit	cretit2	0.6870	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	747.0
+6	Spectrogram 1	1	750.0	753.0	0	15000	Willow Tit	wiltit1	0.7410	.\sounds\realsound\white\white3\20260210\20260210_100000.WAV	750.0

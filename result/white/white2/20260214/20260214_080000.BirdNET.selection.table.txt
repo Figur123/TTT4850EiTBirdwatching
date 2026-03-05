@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	261.0	264.0	0	15000	Coal Tit	coatit2	0.8862	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	261.0
+2	Spectrogram 1	1	264.0	267.0	0	15000	Coal Tit	coatit2	0.9016	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	264.0
+3	Spectrogram 1	1	270.0	273.0	0	15000	Coal Tit	coatit2	0.6501	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	270.0
+4	Spectrogram 1	1	273.0	276.0	0	15000	Coal Tit	coatit2	0.7485	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	273.0
+5	Spectrogram 1	1	279.0	282.0	0	15000	Coal Tit	coatit2	0.8024	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	279.0
+6	Spectrogram 1	1	282.0	285.0	0	15000	Coal Tit	coatit2	0.7023	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	282.0
+7	Spectrogram 1	1	285.0	288.0	0	15000	Coal Tit	coatit2	0.9638	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	285.0
+8	Spectrogram 1	1	288.0	291.0	0	15000	Coal Tit	coatit2	0.8627	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	288.0
+9	Spectrogram 1	1	291.0	294.0	0	15000	Coal Tit	coatit2	0.9857	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	291.0
+10	Spectrogram 1	1	294.0	297.0	0	15000	Coal Tit	coatit2	0.8439	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	294.0
+11	Spectrogram 1	1	297.0	300.0	0	15000	Coal Tit	coatit2	0.9447	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	297.0
+12	Spectrogram 1	1	303.0	306.0	0	15000	Coal Tit	coatit2	0.9756	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	303.0
+13	Spectrogram 1	1	306.0	309.0	0	15000	Coal Tit	coatit2	0.9864	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	306.0
+14	Spectrogram 1	1	312.0	315.0	0	15000	Coal Tit	coatit2	0.9714	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	312.0
+15	Spectrogram 1	1	318.0	321.0	0	15000	Coal Tit	coatit2	0.9834	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	318.0
+16	Spectrogram 1	1	327.0	330.0	0	15000	Coal Tit	coatit2	0.9746	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	327.0
+17	Spectrogram 1	1	333.0	336.0	0	15000	Coal Tit	coatit2	0.8372	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	333.0
+18	Spectrogram 1	1	342.0	345.0	0	15000	Coal Tit	coatit2	0.5558	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	342.0
+19	Spectrogram 1	1	669.0	672.0	0	15000	Eurasian Coot	eurcoo	0.8724	.\sounds\realsound\white\white2\20260214\20260214_080000.WAV	669.0

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	396.0	399.0	0	15000	European Greenfinch	eurgre1	0.6906	.\sounds\realsound\white\white3\20260215\20260215_070000.WAV	396.0
+2	Spectrogram 1	1	435.0	438.0	0	15000	Coal Tit	coatit2	0.5955	.\sounds\realsound\white\white3\20260215\20260215_070000.WAV	435.0
+3	Spectrogram 1	1	678.0	681.0	0	15000	Willow Tit	wiltit1	0.5470	.\sounds\realsound\white\white3\20260215\20260215_070000.WAV	678.0
+4	Spectrogram 1	1	732.0	735.0	0	15000	Black Woodpecker	blawoo1	0.9272	.\sounds\realsound\white\white3\20260215\20260215_070000.WAV	732.0
+5	Spectrogram 1	1	774.0	777.0	0	15000	Black Woodpecker	blawoo1	0.9481	.\sounds\realsound\white\white3\20260215\20260215_070000.WAV	774.0

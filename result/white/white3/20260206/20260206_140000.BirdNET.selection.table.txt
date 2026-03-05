@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	390.0	393.0	0	15000	Eurasian Coot	eurcoo	0.6387	.\sounds\realsound\white\white3\20260206\20260206_140000.WAV	390.0

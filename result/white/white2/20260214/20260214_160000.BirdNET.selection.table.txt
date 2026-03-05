@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	81.0	84.0	0	15000	Long-eared Owl	loeowl	0.6336	.\sounds\realsound\white\white2\20260214\20260214_160000.WAV	81.0

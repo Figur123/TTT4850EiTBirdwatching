@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	15000	Tawny Owl	tawowl1	0.5027	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	9.0
+2	Spectrogram 1	1	42.0	45.0	0	15000	Arctic Loon	arcloo	0.7325	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	42.0
+3	Spectrogram 1	1	225.0	228.0	0	15000	Willow Tit	wiltit1	0.9510	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	225.0
+4	Spectrogram 1	1	228.0	231.0	0	15000	Willow Tit	wiltit1	0.5122	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	228.0
+5	Spectrogram 1	1	234.0	237.0	0	15000	Goldcrest	goldcr1	0.5437	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	234.0
+6	Spectrogram 1	1	255.0	258.0	0	15000	Redwing	redwin	0.6819	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	255.0
+7	Spectrogram 1	1	504.0	507.0	0	15000	Great Bittern	grebit1	0.6382	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	504.0
+8	Spectrogram 1	1	678.0	681.0	0	15000	Goldcrest	goldcr1	0.7596	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	678.0
+9	Spectrogram 1	1	705.0	708.0	0	15000	Goldcrest	goldcr1	0.6999	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	705.0
+10	Spectrogram 1	1	747.0	750.0	0	15000	Goldcrest	goldcr1	0.9657	.\sounds\realsound\white\white4\20260210\20260210_100000.WAV	747.0

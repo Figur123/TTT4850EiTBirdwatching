@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	318.0	321.0	0	15000	Eurasian Nuthatch	eurnut2	0.9042	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	318.0
+2	Spectrogram 1	1	321.0	324.0	0	15000	Eurasian Nuthatch	eurnut2	0.9759	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	321.0
+3	Spectrogram 1	1	324.0	327.0	0	15000	Eurasian Nuthatch	eurnut2	0.9824	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	324.0
+4	Spectrogram 1	1	327.0	330.0	0	15000	Eurasian Nuthatch	eurnut2	0.9837	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	327.0
+5	Spectrogram 1	1	330.0	333.0	0	15000	Eurasian Nuthatch	eurnut2	0.9789	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	330.0
+6	Spectrogram 1	1	333.0	336.0	0	15000	Eurasian Nuthatch	eurnut2	0.9396	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	333.0
+7	Spectrogram 1	1	336.0	339.0	0	15000	Eurasian Nuthatch	eurnut2	0.7970	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	336.0
+8	Spectrogram 1	1	339.0	342.0	0	15000	Eurasian Nuthatch	eurnut2	0.9677	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	339.0
+9	Spectrogram 1	1	342.0	345.0	0	15000	Eurasian Nuthatch	eurnut2	0.9372	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	342.0
+10	Spectrogram 1	1	345.0	348.0	0	15000	Eurasian Nuthatch	eurnut2	0.8332	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	345.0
+11	Spectrogram 1	1	348.0	351.0	0	15000	Eurasian Nuthatch	eurnut2	0.9427	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	348.0
+12	Spectrogram 1	1	351.0	354.0	0	15000	Eurasian Nuthatch	eurnut2	0.9449	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	351.0
+13	Spectrogram 1	1	354.0	357.0	0	15000	Eurasian Nuthatch	eurnut2	0.9886	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	354.0
+14	Spectrogram 1	1	357.0	360.0	0	15000	Eurasian Nuthatch	eurnut2	0.9554	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	357.0
+15	Spectrogram 1	1	360.0	363.0	0	15000	Eurasian Nuthatch	eurnut2	0.9938	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	360.0
+16	Spectrogram 1	1	363.0	366.0	0	15000	Eurasian Nuthatch	eurnut2	0.9731	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	363.0
+17	Spectrogram 1	1	366.0	369.0	0	15000	Eurasian Nuthatch	eurnut2	0.9425	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	366.0
+18	Spectrogram 1	1	369.0	372.0	0	15000	Eurasian Nuthatch	eurnut2	0.9531	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	369.0
+19	Spectrogram 1	1	375.0	378.0	0	15000	Eurasian Nuthatch	eurnut2	0.7608	.\sounds\realsound\white\white3\20260210\20260210_090000.WAV	375.0

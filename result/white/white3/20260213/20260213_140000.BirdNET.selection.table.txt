@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	381.0	384.0	0	15000	Black Woodpecker	blawoo1	0.9357	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	381.0
+2	Spectrogram 1	1	384.0	387.0	0	15000	Black Woodpecker	blawoo1	0.9552	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	384.0
+3	Spectrogram 1	1	387.0	390.0	0	15000	Black Woodpecker	blawoo1	0.6724	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	387.0
+4	Spectrogram 1	1	405.0	408.0	0	15000	Black Woodpecker	blawoo1	0.9521	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	405.0
+5	Spectrogram 1	1	414.0	417.0	0	15000	Black Woodpecker	blawoo1	0.7318	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	414.0
+6	Spectrogram 1	1	690.0	693.0	0	15000	Tawny Owl	tawowl1	0.8749	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	690.0
+7	Spectrogram 1	1	774.0	777.0	0	15000	Common Sandpiper	comsan	0.5686	.\sounds\realsound\white\white3\20260213\20260213_140000.WAV	774.0

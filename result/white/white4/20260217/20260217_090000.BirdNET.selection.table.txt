@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	264.0	267.0	0	15000	Tawny Owl	tawowl1	0.5163	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	264.0
+2	Spectrogram 1	1	318.0	321.0	0	15000	Great Bittern	grebit1	0.5294	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	318.0
+3	Spectrogram 1	1	420.0	423.0	0	15000	Goldcrest	goldcr1	0.6704	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	420.0
+4	Spectrogram 1	1	456.0	459.0	0	15000	Goldcrest	goldcr1	0.8036	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	456.0
+5	Spectrogram 1	1	525.0	528.0	0	15000	Goldcrest	goldcr1	0.5758	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	525.0
+6	Spectrogram 1	1	546.0	549.0	0	15000	Goldcrest	goldcr1	0.9208	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	546.0
+7	Spectrogram 1	1	606.0	609.0	0	15000	Goldcrest	goldcr1	0.7189	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	606.0
+8	Spectrogram 1	1	609.0	612.0	0	15000	Goldcrest	goldcr1	0.7362	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	609.0
+9	Spectrogram 1	1	651.0	654.0	0	15000	Eurasian Treecreeper	eurtre1	0.9997	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	651.0
+10	Spectrogram 1	1	654.0	657.0	0	15000	Eurasian Treecreeper	eurtre1	0.8406	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	654.0
+11	Spectrogram 1	1	675.0	678.0	0	15000	Goldcrest	goldcr1	0.6665	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	675.0
+12	Spectrogram 1	1	678.0	681.0	0	15000	Goldcrest	goldcr1	0.7392	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	678.0
+13	Spectrogram 1	1	711.0	714.0	0	15000	Goldcrest	goldcr1	0.5815	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	711.0
+14	Spectrogram 1	1	741.0	744.0	0	15000	Goldcrest	goldcr1	0.5777	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	741.0
+15	Spectrogram 1	1	744.0	747.0	0	15000	Goldcrest	goldcr1	0.9033	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	744.0
+16	Spectrogram 1	1	756.0	759.0	0	15000	Goldcrest	goldcr1	0.8471	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	756.0
+17	Spectrogram 1	1	759.0	762.0	0	15000	Goldcrest	goldcr1	0.9501	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	759.0
+18	Spectrogram 1	1	768.0	771.0	0	15000	Goldcrest	goldcr1	0.6362	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	768.0
+19	Spectrogram 1	1	789.0	792.0	0	15000	Goldcrest	goldcr1	0.5827	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	789.0
+20	Spectrogram 1	1	792.0	795.0	0	15000	Goldcrest	goldcr1	0.6596	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	792.0
+21	Spectrogram 1	1	798.0	801.0	0	15000	Goldcrest	goldcr1	0.6298	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	798.0
+22	Spectrogram 1	1	816.0	819.0	0	15000	Goldcrest	goldcr1	0.7763	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	816.0
+23	Spectrogram 1	1	825.0	828.0	0	15000	Goldcrest	goldcr1	0.6457	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	825.0
+24	Spectrogram 1	1	828.0	831.0	0	15000	Goldcrest	goldcr1	0.5214	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	828.0
+25	Spectrogram 1	1	831.0	834.0	0	15000	Goldcrest	goldcr1	0.6868	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	831.0
+26	Spectrogram 1	1	843.0	846.0	0	15000	Goldcrest	goldcr1	0.7488	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	843.0
+27	Spectrogram 1	1	864.0	867.0	0	15000	Goldcrest	goldcr1	0.8514	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	864.0
+28	Spectrogram 1	1	879.0	882.0	0	15000	Goldcrest	goldcr1	0.5398	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	879.0
+29	Spectrogram 1	1	882.0	885.0	0	15000	Goldcrest	goldcr1	0.6272	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	882.0
+30	Spectrogram 1	1	894.0	897.0	0	15000	Goldcrest	goldcr1	0.5525	.\sounds\realsound\white\white4\20260217\20260217_090000.WAV	894.0

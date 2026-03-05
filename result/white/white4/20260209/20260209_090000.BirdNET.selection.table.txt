@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	15000	Eurasian Treecreeper	eurtre1	0.8685	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	6.0
+2	Spectrogram 1	1	12.0	15.0	0	15000	Tawny Owl	tawowl1	0.5727	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	12.0
+3	Spectrogram 1	1	15.0	18.0	0	15000	Tawny Owl	tawowl1	0.5789	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	15.0
+4	Spectrogram 1	1	57.0	60.0	0	15000	Tawny Owl	tawowl1	0.8702	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	57.0
+5	Spectrogram 1	1	87.0	90.0	0	15000	Eurasian Treecreeper	eurtre1	0.9884	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	87.0
+6	Spectrogram 1	1	90.0	93.0	0	15000	Goldcrest	goldcr1	0.5545	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	90.0
+7	Spectrogram 1	1	108.0	111.0	0	15000	Eurasian Treecreeper	eurtre1	0.7362	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	108.0
+8	Spectrogram 1	1	111.0	114.0	0	15000	Goldcrest	goldcr1	0.8310	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	111.0
+9	Spectrogram 1	1	144.0	147.0	0	15000	Eurasian Treecreeper	eurtre1	0.7038	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	144.0
+10	Spectrogram 1	1	162.0	165.0	0	15000	Goldcrest	goldcr1	0.6536	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	162.0
+11	Spectrogram 1	1	183.0	186.0	0	15000	Tawny Owl	tawowl1	0.9390	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	183.0
+12	Spectrogram 1	1	186.0	189.0	0	15000	Tawny Owl	tawowl1	0.5572	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	186.0
+13	Spectrogram 1	1	270.0	273.0	0	15000	Goldcrest	goldcr1	0.5919	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	270.0
+14	Spectrogram 1	1	297.0	300.0	0	15000	Goldcrest	goldcr1	0.5581	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	297.0
+15	Spectrogram 1	1	306.0	309.0	0	15000	Goldcrest	goldcr1	0.6079	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	306.0
+16	Spectrogram 1	1	363.0	366.0	0	15000	Eurasian Treecreeper	eurtre1	0.6539	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	363.0
+17	Spectrogram 1	1	414.0	417.0	0	15000	Eurasian Treecreeper	eurtre1	0.9269	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	414.0
+18	Spectrogram 1	1	441.0	444.0	0	15000	Tawny Owl	tawowl1	0.6754	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	441.0
+19	Spectrogram 1	1	783.0	786.0	0	15000	Tawny Owl	tawowl1	0.5855	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	783.0
+20	Spectrogram 1	1	873.0	876.0	0	15000	Tawny Owl	tawowl1	0.5987	.\sounds\realsound\white\white4\20260209\20260209_090000.WAV	873.0

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	66.0	69.0	0	15000	Black Woodpecker	blawoo1	0.9847	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	66.0
+2	Spectrogram 1	1	69.0	72.0	0	15000	Black Woodpecker	blawoo1	0.8777	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	69.0
+3	Spectrogram 1	1	102.0	105.0	0	15000	Black Woodpecker	blawoo1	0.9663	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	102.0
+4	Spectrogram 1	1	108.0	111.0	0	15000	Black Woodpecker	blawoo1	0.9226	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	108.0
+5	Spectrogram 1	1	111.0	114.0	0	15000	Black Woodpecker	blawoo1	0.9741	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	111.0
+6	Spectrogram 1	1	117.0	120.0	0	15000	Black Woodpecker	blawoo1	0.9698	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	117.0
+7	Spectrogram 1	1	123.0	126.0	0	15000	Black Woodpecker	blawoo1	0.9768	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	123.0
+8	Spectrogram 1	1	129.0	132.0	0	15000	Black Woodpecker	blawoo1	0.9689	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	129.0
+9	Spectrogram 1	1	135.0	138.0	0	15000	Black Woodpecker	blawoo1	0.9915	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	135.0
+10	Spectrogram 1	1	138.0	141.0	0	15000	Black Woodpecker	blawoo1	0.9811	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	138.0
+11	Spectrogram 1	1	147.0	150.0	0	15000	Black Woodpecker	blawoo1	0.9170	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	147.0
+12	Spectrogram 1	1	153.0	156.0	0	15000	Black Woodpecker	blawoo1	0.9006	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	153.0
+13	Spectrogram 1	1	162.0	165.0	0	15000	Black Woodpecker	blawoo1	0.8430	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	162.0
+14	Spectrogram 1	1	174.0	177.0	0	15000	Black Woodpecker	blawoo1	0.5248	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	174.0
+15	Spectrogram 1	1	264.0	267.0	0	15000	European Golden-Plover	eugplo	0.8809	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	264.0
+16	Spectrogram 1	1	387.0	390.0	0	15000	Eurasian Bullfinch	eurbul	0.9413	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	387.0
+17	Spectrogram 1	1	390.0	393.0	0	15000	Eurasian Bullfinch	eurbul	0.9551	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	390.0
+18	Spectrogram 1	1	393.0	396.0	0	15000	Eurasian Bullfinch	eurbul	0.9029	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	393.0
+19	Spectrogram 1	1	396.0	399.0	0	15000	Eurasian Bullfinch	eurbul	0.9740	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	396.0
+20	Spectrogram 1	1	399.0	402.0	0	15000	Eurasian Bullfinch	eurbul	0.9654	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	399.0
+21	Spectrogram 1	1	402.0	405.0	0	15000	Eurasian Bullfinch	eurbul	0.5939	.\sounds\realsound\white\white4\20260209\20260209_150000.WAV	402.0

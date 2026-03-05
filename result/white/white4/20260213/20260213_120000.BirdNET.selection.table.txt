@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	15000	Goldcrest	goldcr1	0.7401	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	12.0
+2	Spectrogram 1	1	39.0	42.0	0	15000	Goldcrest	goldcr1	0.8439	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	39.0
+3	Spectrogram 1	1	117.0	120.0	0	15000	Goldcrest	goldcr1	0.6971	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	117.0
+4	Spectrogram 1	1	120.0	123.0	0	15000	Goldcrest	goldcr1	0.6897	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	120.0
+5	Spectrogram 1	1	129.0	132.0	0	15000	Goldcrest	goldcr1	0.5131	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	129.0
+6	Spectrogram 1	1	147.0	150.0	0	15000	Goldcrest	goldcr1	0.5141	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	147.0
+7	Spectrogram 1	1	180.0	183.0	0	15000	Goldcrest	goldcr1	0.7568	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	180.0
+8	Spectrogram 1	1	183.0	186.0	0	15000	Goldcrest	goldcr1	0.7648	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	183.0
+9	Spectrogram 1	1	210.0	213.0	0	15000	Goldcrest	goldcr1	0.5545	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	210.0
+10	Spectrogram 1	1	222.0	225.0	0	15000	Goldcrest	goldcr1	0.7150	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	222.0
+11	Spectrogram 1	1	225.0	228.0	0	15000	Goldcrest	goldcr1	0.5133	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	225.0
+12	Spectrogram 1	1	240.0	243.0	0	15000	Goldcrest	goldcr1	0.7671	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	240.0
+13	Spectrogram 1	1	243.0	246.0	0	15000	Goldcrest	goldcr1	0.5444	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	243.0
+14	Spectrogram 1	1	246.0	249.0	0	15000	Goldcrest	goldcr1	0.5178	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	246.0
+15	Spectrogram 1	1	249.0	252.0	0	15000	Goldcrest	goldcr1	0.5589	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	249.0
+16	Spectrogram 1	1	255.0	258.0	0	15000	Goldcrest	goldcr1	0.6676	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	255.0
+17	Spectrogram 1	1	258.0	261.0	0	15000	Goldcrest	goldcr1	0.5959	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	258.0
+18	Spectrogram 1	1	264.0	267.0	0	15000	Goldcrest	goldcr1	0.8186	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	264.0
+19	Spectrogram 1	1	279.0	282.0	0	15000	Goldcrest	goldcr1	0.7252	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	279.0
+20	Spectrogram 1	1	312.0	315.0	0	15000	Goldcrest	goldcr1	0.8611	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	312.0
+21	Spectrogram 1	1	315.0	318.0	0	15000	Goldcrest	goldcr1	0.6504	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	315.0
+22	Spectrogram 1	1	321.0	324.0	0	15000	Goldcrest	goldcr1	0.7583	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	321.0
+23	Spectrogram 1	1	324.0	327.0	0	15000	Goldcrest	goldcr1	0.5230	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	324.0
+24	Spectrogram 1	1	333.0	336.0	0	15000	Goldcrest	goldcr1	0.6379	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	333.0
+25	Spectrogram 1	1	336.0	339.0	0	15000	Goldcrest	goldcr1	0.8457	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	336.0
+26	Spectrogram 1	1	387.0	390.0	0	15000	Song Thrush	sonthr1	0.7435	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	387.0
+27	Spectrogram 1	1	498.0	501.0	0	15000	Goldcrest	goldcr1	0.5257	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	498.0
+28	Spectrogram 1	1	501.0	504.0	0	15000	Goldcrest	goldcr1	0.5784	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	501.0
+29	Spectrogram 1	1	522.0	525.0	0	15000	Goldcrest	goldcr1	0.5063	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	522.0
+30	Spectrogram 1	1	540.0	543.0	0	15000	Goldcrest	goldcr1	0.6227	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	540.0
+31	Spectrogram 1	1	570.0	573.0	0	15000	Goldcrest	goldcr1	0.6714	.\sounds\realsound\white\white4\20260213\20260213_120000.WAV	570.0

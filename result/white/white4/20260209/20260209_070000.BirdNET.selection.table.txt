@@ -1,0 +1,33 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	156.0	159.0	0	15000	Willow Tit	wiltit1	0.7854	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	156.0
+2	Spectrogram 1	1	174.0	177.0	0	15000	Common Raven	comrav	0.9699	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	174.0
+3	Spectrogram 1	1	177.0	180.0	0	15000	Common Raven	comrav	0.9855	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	177.0
+4	Spectrogram 1	1	186.0	189.0	0	15000	Common Raven	comrav	0.9825	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	186.0
+5	Spectrogram 1	1	246.0	249.0	0	15000	Willow Tit	wiltit1	0.9066	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	246.0
+6	Spectrogram 1	1	249.0	252.0	0	15000	Willow Tit	wiltit1	0.9452	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	249.0
+7	Spectrogram 1	1	258.0	261.0	0	15000	Willow Tit	wiltit1	0.8883	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	258.0
+8	Spectrogram 1	1	264.0	267.0	0	15000	Willow Tit	wiltit1	0.9719	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	264.0
+9	Spectrogram 1	1	270.0	273.0	0	15000	Willow Tit	wiltit1	0.7706	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	270.0
+10	Spectrogram 1	1	282.0	285.0	0	15000	Willow Tit	wiltit1	0.9740	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	282.0
+11	Spectrogram 1	1	375.0	378.0	0	15000	Willow Tit	wiltit1	0.7188	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	375.0
+12	Spectrogram 1	1	393.0	396.0	0	15000	Willow Tit	wiltit1	0.7804	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	393.0
+13	Spectrogram 1	1	399.0	402.0	0	15000	Willow Tit	wiltit1	0.8200	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	399.0
+14	Spectrogram 1	1	408.0	411.0	0	15000	Willow Tit	wiltit1	0.7603	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	408.0
+15	Spectrogram 1	1	435.0	438.0	0	15000	Goldcrest	goldcr1	0.5842	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	435.0
+16	Spectrogram 1	1	471.0	474.0	0	15000	Goldcrest	goldcr1	0.5925	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	471.0
+17	Spectrogram 1	1	486.0	489.0	0	15000	Goldcrest	goldcr1	0.5975	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	486.0
+18	Spectrogram 1	1	525.0	528.0	0	15000	Goldcrest	goldcr1	0.7226	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	525.0
+19	Spectrogram 1	1	534.0	537.0	0	15000	Goldcrest	goldcr1	0.5288	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	534.0
+20	Spectrogram 1	1	540.0	543.0	0	15000	Goldcrest	goldcr1	0.5126	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	540.0
+21	Spectrogram 1	1	549.0	552.0	0	15000	Goldcrest	goldcr1	0.6988	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	549.0
+22	Spectrogram 1	1	555.0	558.0	0	15000	Goldcrest	goldcr1	0.7439	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	555.0
+23	Spectrogram 1	1	564.0	567.0	0	15000	Goldcrest	goldcr1	0.7072	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	564.0
+24	Spectrogram 1	1	567.0	570.0	0	15000	Goldcrest	goldcr1	0.8353	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	567.0
+25	Spectrogram 1	1	570.0	573.0	0	15000	Goldcrest	goldcr1	0.5097	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	570.0
+26	Spectrogram 1	1	573.0	576.0	0	15000	Goldcrest	goldcr1	0.9229	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	573.0
+27	Spectrogram 1	1	576.0	579.0	0	15000	Goldcrest	goldcr1	0.5048	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	576.0
+28	Spectrogram 1	1	579.0	582.0	0	15000	Goldcrest	goldcr1	0.9521	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	579.0
+29	Spectrogram 1	1	582.0	585.0	0	15000	Goldcrest	goldcr1	0.5490	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	582.0
+30	Spectrogram 1	1	585.0	588.0	0	15000	Goldcrest	goldcr1	0.5107	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	585.0
+31	Spectrogram 1	1	858.0	861.0	0	15000	Redwing	redwin	0.9694	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	858.0
+32	Spectrogram 1	1	861.0	864.0	0	15000	Eurasian Treecreeper	eurtre1	0.5778	.\sounds\realsound\white\white4\20260209\20260209_070000.WAV	861.0

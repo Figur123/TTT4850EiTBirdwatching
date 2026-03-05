@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	102.0	105.0	0	15000	Great Bittern	grebit1	0.6608	.\sounds\realsound\white\white4\20260210\20260210_090000.WAV	102.0
+2	Spectrogram 1	1	153.0	156.0	0	15000	Tundra Swan	tunswa	0.7152	.\sounds\realsound\white\white4\20260210\20260210_090000.WAV	153.0
+3	Spectrogram 1	1	513.0	516.0	0	15000	Redwing	redwin	0.6588	.\sounds\realsound\white\white4\20260210\20260210_090000.WAV	513.0
+4	Spectrogram 1	1	756.0	759.0	0	15000	Great Bittern	grebit1	0.5985	.\sounds\realsound\white\white4\20260210\20260210_090000.WAV	756.0
+5	Spectrogram 1	1	762.0	765.0	0	15000	Eurasian Coot	eurcoo	0.7150	.\sounds\realsound\white\white4\20260210\20260210_090000.WAV	762.0

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	78.0	81.0	0	15000	Eurasian Treecreeper	eurtre1	0.5952	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	78.0
+2	Spectrogram 1	1	81.0	84.0	0	15000	Eurasian Treecreeper	eurtre1	0.7889	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	81.0
+3	Spectrogram 1	1	138.0	141.0	0	15000	Eurasian Treecreeper	eurtre1	0.7232	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	138.0
+4	Spectrogram 1	1	144.0	147.0	0	15000	Eurasian Treecreeper	eurtre1	0.9994	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	144.0
+5	Spectrogram 1	1	159.0	162.0	0	15000	Eurasian Treecreeper	eurtre1	0.9952	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	159.0
+6	Spectrogram 1	1	246.0	249.0	0	15000	Rook	rook1	0.7246	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	246.0
+7	Spectrogram 1	1	567.0	570.0	0	15000	Carrion Crow	carcro1	0.5596	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	567.0
+8	Spectrogram 1	1	570.0	573.0	0	15000	Carrion Crow	carcro1	0.7582	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	570.0
+9	Spectrogram 1	1	573.0	576.0	0	15000	Carrion Crow	carcro1	0.7259	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	573.0
+10	Spectrogram 1	1	576.0	579.0	0	15000	Carrion Crow	carcro1	0.5769	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	576.0
+11	Spectrogram 1	1	582.0	585.0	0	15000	Carrion Crow	carcro1	0.7260	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	582.0
+12	Spectrogram 1	1	585.0	588.0	0	15000	Carrion Crow	carcro1	0.6811	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	585.0
+13	Spectrogram 1	1	609.0	612.0	0	15000	Eurasian Treecreeper	eurtre1	0.7758	.\sounds\realsound\white\white1\20260212\20260212_070000.WAV	609.0

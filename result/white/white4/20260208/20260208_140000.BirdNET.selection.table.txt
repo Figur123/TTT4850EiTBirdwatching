@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	72.0	75.0	0	15000	Gray Heron	graher1	0.6749	.\sounds\realsound\white\white4\20260208\20260208_140000.WAV	72.0
+2	Spectrogram 1	1	198.0	201.0	0	15000	Eurasian Bullfinch	eurbul	0.9519	.\sounds\realsound\white\white4\20260208\20260208_140000.WAV	198.0
+3	Spectrogram 1	1	630.0	633.0	0	15000	Mallard	mallar3	0.5726	.\sounds\realsound\white\white4\20260208\20260208_140000.WAV	630.0

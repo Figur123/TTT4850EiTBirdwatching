@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	117.0	120.0	0	15000	Eurasian Bullfinch	eurbul	0.7631	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	117.0
+2	Spectrogram 1	1	132.0	135.0	0	15000	Eurasian Bullfinch	eurbul	0.7071	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	132.0
+3	Spectrogram 1	1	273.0	276.0	0	15000	Tawny Owl	tawowl1	0.8532	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	273.0
+4	Spectrogram 1	1	276.0	279.0	0	15000	Tawny Owl	tawowl1	0.6313	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	276.0
+5	Spectrogram 1	1	282.0	285.0	0	15000	Tawny Owl	tawowl1	0.8761	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	282.0
+6	Spectrogram 1	1	285.0	288.0	0	15000	Tawny Owl	tawowl1	0.6060	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	285.0
+7	Spectrogram 1	1	426.0	429.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.7023	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	426.0
+8	Spectrogram 1	1	498.0	501.0	0	15000	Eurasian Bullfinch	eurbul	0.8153	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	498.0
+9	Spectrogram 1	1	513.0	516.0	0	15000	Eurasian Bullfinch	eurbul	0.7163	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	513.0
+10	Spectrogram 1	1	528.0	531.0	0	15000	Eurasian Bullfinch	eurbul	0.7431	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	528.0
+11	Spectrogram 1	1	543.0	546.0	0	15000	Eurasian Bullfinch	eurbul	0.6229	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	543.0
+12	Spectrogram 1	1	549.0	552.0	0	15000	Eurasian Bullfinch	eurbul	0.9490	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	549.0
+13	Spectrogram 1	1	552.0	555.0	0	15000	Eurasian Bullfinch	eurbul	0.9564	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	552.0
+14	Spectrogram 1	1	555.0	558.0	0	15000	Eurasian Bullfinch	eurbul	0.5807	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	555.0
+15	Spectrogram 1	1	558.0	561.0	0	15000	Eurasian Bullfinch	eurbul	0.9745	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	558.0
+16	Spectrogram 1	1	561.0	564.0	0	15000	Eurasian Bullfinch	eurbul	0.9638	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	561.0
+17	Spectrogram 1	1	564.0	567.0	0	15000	Eurasian Bullfinch	eurbul	0.7642	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	564.0
+18	Spectrogram 1	1	609.0	612.0	0	15000	Black-headed Gull	bkhgul	0.5540	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	609.0
+19	Spectrogram 1	1	696.0	699.0	0	15000	Eurasian Coot	eurcoo	0.6418	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	696.0
+20	Spectrogram 1	1	813.0	816.0	0	15000	Long-eared Owl	loeowl	0.7447	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	813.0
+21	Spectrogram 1	1	813.0	816.0	0	15000	Eurasian Eagle-Owl	eueowl1	0.6489	.\sounds\realsound\white\white4\20260214\20260214_070000.WAV	813.0

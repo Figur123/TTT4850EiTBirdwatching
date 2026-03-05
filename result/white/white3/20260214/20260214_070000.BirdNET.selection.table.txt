@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	123.0	126.0	0	15000	Crested Tit	cretit2	0.6851	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	123.0
+2	Spectrogram 1	1	129.0	132.0	0	15000	Crested Tit	cretit2	0.5016	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	129.0
+3	Spectrogram 1	1	132.0	135.0	0	15000	Crested Tit	cretit2	0.5219	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	132.0
+4	Spectrogram 1	1	135.0	138.0	0	15000	Crested Tit	cretit2	0.7746	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	135.0
+5	Spectrogram 1	1	144.0	147.0	0	15000	Crested Tit	cretit2	0.9035	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	144.0
+6	Spectrogram 1	1	162.0	165.0	0	15000	Eurasian Bullfinch	eurbul	0.6482	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	162.0
+7	Spectrogram 1	1	174.0	177.0	0	15000	Goldcrest	goldcr1	0.5803	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	174.0
+8	Spectrogram 1	1	231.0	234.0	0	15000	Coal Tit	coatit2	0.6503	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	231.0
+9	Spectrogram 1	1	234.0	237.0	0	15000	Coal Tit	coatit2	0.8213	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	234.0
+10	Spectrogram 1	1	237.0	240.0	0	15000	Coal Tit	coatit2	0.8239	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	237.0
+11	Spectrogram 1	1	240.0	243.0	0	15000	Coal Tit	coatit2	0.8377	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	240.0
+12	Spectrogram 1	1	243.0	246.0	0	15000	Coal Tit	coatit2	0.7895	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	243.0
+13	Spectrogram 1	1	246.0	249.0	0	15000	Coal Tit	coatit2	0.8180	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	246.0
+14	Spectrogram 1	1	252.0	255.0	0	15000	Coal Tit	coatit2	0.7382	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	252.0
+15	Spectrogram 1	1	258.0	261.0	0	15000	Coal Tit	coatit2	0.7232	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	258.0
+16	Spectrogram 1	1	264.0	267.0	0	15000	Tawny Owl	tawowl1	0.9546	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	264.0
+17	Spectrogram 1	1	270.0	273.0	0	15000	Coal Tit	coatit2	0.6031	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	270.0
+18	Spectrogram 1	1	282.0	285.0	0	15000	Coal Tit	coatit2	0.5185	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	282.0
+19	Spectrogram 1	1	285.0	288.0	0	15000	Crested Tit	cretit2	0.9773	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	285.0
+20	Spectrogram 1	1	288.0	291.0	0	15000	Crested Tit	cretit2	0.9643	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	288.0
+21	Spectrogram 1	1	291.0	294.0	0	15000	Crested Tit	cretit2	0.9960	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	291.0
+22	Spectrogram 1	1	306.0	309.0	0	15000	Crested Tit	cretit2	0.9958	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	306.0
+23	Spectrogram 1	1	309.0	312.0	0	15000	Crested Tit	cretit2	0.9363	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	309.0
+24	Spectrogram 1	1	312.0	315.0	0	15000	Crested Tit	cretit2	0.9989	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	312.0
+25	Spectrogram 1	1	315.0	318.0	0	15000	Goldcrest	goldcr1	0.8079	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	315.0
+26	Spectrogram 1	1	321.0	324.0	0	15000	Crested Tit	cretit2	0.8578	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	321.0
+27	Spectrogram 1	1	324.0	327.0	0	15000	Crested Tit	cretit2	0.9109	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	324.0
+28	Spectrogram 1	1	327.0	330.0	0	15000	Crested Tit	cretit2	0.9702	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	327.0
+29	Spectrogram 1	1	333.0	336.0	0	15000	Crested Tit	cretit2	0.9956	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	333.0
+30	Spectrogram 1	1	342.0	345.0	0	15000	Crested Tit	cretit2	0.9643	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	342.0
+31	Spectrogram 1	1	345.0	348.0	0	15000	Crested Tit	cretit2	0.9717	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	345.0
+32	Spectrogram 1	1	354.0	357.0	0	15000	Crested Tit	cretit2	0.8922	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	354.0
+33	Spectrogram 1	1	378.0	381.0	0	15000	Black Woodpecker	blawoo1	0.9916	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	378.0
+34	Spectrogram 1	1	381.0	384.0	0	15000	Black Woodpecker	blawoo1	0.9995	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	381.0
+35	Spectrogram 1	1	384.0	387.0	0	15000	Black Woodpecker	blawoo1	0.9952	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	384.0
+36	Spectrogram 1	1	414.0	417.0	0	15000	Goldcrest	goldcr1	0.8087	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	414.0
+37	Spectrogram 1	1	459.0	462.0	0	15000	Crested Tit	cretit2	0.7709	.\sounds\realsound\white\white3\20260214\20260214_070000.WAV	459.0

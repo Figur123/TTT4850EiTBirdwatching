@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	435.0	438.0	0	15000	Eurasian Bullfinch	eurbul	0.6972	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	435.0
+2	Spectrogram 1	1	438.0	441.0	0	15000	Eurasian Bullfinch	eurbul	0.5211	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	438.0
+3	Spectrogram 1	1	441.0	444.0	0	15000	Eurasian Bullfinch	eurbul	0.6767	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	441.0
+4	Spectrogram 1	1	444.0	447.0	0	15000	Eurasian Bullfinch	eurbul	0.7410	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	444.0
+5	Spectrogram 1	1	453.0	456.0	0	15000	Eurasian Bullfinch	eurbul	0.6827	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	453.0
+6	Spectrogram 1	1	726.0	729.0	0	15000	Eurasian Bullfinch	eurbul	0.5559	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	726.0
+7	Spectrogram 1	1	729.0	732.0	0	15000	Eurasian Bullfinch	eurbul	0.9267	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	729.0
+8	Spectrogram 1	1	732.0	735.0	0	15000	Eurasian Bullfinch	eurbul	0.8990	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	732.0
+9	Spectrogram 1	1	735.0	738.0	0	15000	Eurasian Bullfinch	eurbul	0.9335	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	735.0
+10	Spectrogram 1	1	747.0	750.0	0	15000	Eurasian Bullfinch	eurbul	0.7458	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	747.0
+11	Spectrogram 1	1	777.0	780.0	0	15000	Eurasian Bullfinch	eurbul	0.9759	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	777.0
+12	Spectrogram 1	1	783.0	786.0	0	15000	Eurasian Bullfinch	eurbul	0.8780	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	783.0
+13	Spectrogram 1	1	786.0	789.0	0	15000	Eurasian Bullfinch	eurbul	0.8763	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	786.0
+14	Spectrogram 1	1	792.0	795.0	0	15000	Eurasian Bullfinch	eurbul	0.5625	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	792.0
+15	Spectrogram 1	1	822.0	825.0	0	15000	Long-eared Owl	loeowl	0.5111	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	822.0
+16	Spectrogram 1	1	879.0	882.0	0	15000	Redwing	redwin	0.8381	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	879.0
+17	Spectrogram 1	1	885.0	888.0	0	15000	Redwing	redwin	0.6284	.\sounds\realsound\white\white4\20260214\20260214_080000.WAV	885.0
