@@ -33,16 +33,13 @@ class BirdAnalyzer:
         #only activity sorted by hourly time
         self.activity_during_day = np.zeros(24)#for all hours of the day
         self.activity_over_time = np.empty((0, 24), dtype=float)#2D matrix time horizontaly and day vertical
-        self.correspondig_color = np.array([])
-        self.correspondig_day = np.array([])
+        self.corresponding_color = np.array([])
+        self.corresponding_day = np.array([])
         
         self.hour_axis = np.array([])
-        self.day_axis = np.array([])
-        
-    def erase_dummy_data(self):
-        pass
+        self.day_axis = np.array([]) 
 
-    def __str__(self):
+    def __str__(self):#does not to anything spesial just used to debug
         """
         index = np.argsort(self.species_total)
         sorted_species = self.species_total[index]
@@ -54,8 +51,6 @@ class BirdAnalyzer:
         string = np.str_(self.activity_over_time)
 
         return string
-    
-
 
     def plot_over_time(self, color):
         title = self.color + self.color_number
@@ -63,10 +58,10 @@ class BirdAnalyzer:
         ylabel = "date in feb"
         zlabel = "number of birdsounds"
 
-        savepath = "../figures/" + title +".png"
+        savepath = "figures/" + title +".png"
 
         times = np.arange(24)#for all hours of the day
-        dates = self.correspondig_day
+        dates = self.corresponding_day
         TIMES, DATES = np.meshgrid(times, dates)
         activities = self.activity_over_time
         
@@ -87,7 +82,7 @@ class BirdAnalyzer:
     def update_filename(self):
         self.filename = self.prepath + self.color + self.slash + self.color + self.color_number + self.slash + self.date + self.slash + self.date + self.underscore + self.time + self.wav
 
-    def advance_one_recording(self): 
+    def advance_one_recording(self):
         file_exist_in_path = False   
         #advance more if file was corrupt and could not be analyzed
         while (not file_exist_in_path):
@@ -135,7 +130,7 @@ class BirdAnalyzer:
         self.valid_filename = True
         return True #return true if recording was found
     
-    def advance_color(self):
+    def advance_color(self):#change current color+number to the next one
         self.color_number = str(int(self.color_number) + 1)
         self.time = "-1"
         self.date = "20260205"
@@ -151,7 +146,7 @@ class BirdAnalyzer:
         self.update_filename()
         return True
 
-    def analyze_file(self):
+    def analyze_file(self): #analyses file and stores the data in internal vectors
         with open(self.filename, 'r') as txt_file:
             #print("reading: " + self.filename)
             for line in txt_file:
@@ -182,7 +177,7 @@ class BirdAnalyzer:
 
         return 0
 
-    def analyze_color(self):
+    def analyze_color(self):# a shoortcut to analyse all files in one color
         dateBool = True
         while dateBool:
             dateBool = self.advance_one_recording()
@@ -190,15 +185,117 @@ class BirdAnalyzer:
                 self.analyze_file()
 
     def store_data(self):#when microphones did not go to 23 
-        #if one day is passed stack the result to activity over time 
-        #print(self.activity_during_day)
         self.activity_over_time = np.vstack((self.activity_over_time, self.activity_during_day))
         section = self.color + str(self.color_number)
-        self.correspondig_color = np.append(self.correspondig_color, section)
-        self.correspondig_day = np.append(self.correspondig_day, float(self.date[-2:]))
+        self.corresponding_color = np.append(self.corresponding_color, section)
+        self.corresponding_day = np.append(self.corresponding_day, float(self.date[-2:]) - 1)#need to subtract as its added before function call
 
         #clean some arrays
         self.activity_during_day = np.zeros(24)
+
+def plot_average(B0: BirdAnalyzer,B1: BirdAnalyzer,B2: BirdAnalyzer,B3: BirdAnalyzer):
+    B0.activity_over_time -= 2
+    B1.activity_over_time -= 2
+    B2.activity_over_time -= 2
+    B3.activity_over_time -= 2
+
+    days = np.empty((0, 24), dtype=float)
+    
+    #all activities are same length
+    #calculate averages
+    for v in range(len(B0.activity_over_time)):
+        day = np.zeros(24)
+        
+        
+        for h in range(len(B0.activity_over_time[0])):
+            active_mics = 0
+            local_sum = 0
+            #check each mic
+            if (B0.activity_over_time[v][h] != -2):
+                active_mics += 1
+                local_sum += B0.activity_over_time[v][h]
+            if (B1.activity_over_time[v][h] != -2):
+                active_mics += 1
+                local_sum += B1.activity_over_time[v][h]
+            if (B2.activity_over_time[v][h] != -2):
+                active_mics += 1
+                local_sum += B2.activity_over_time[v][h]
+            if (B3.activity_over_time[v][h] != -2):
+                active_mics += 1
+                local_sum += B3.activity_over_time[v][h]
+            
+            
+            #handle zero mics
+            if active_mics == 0:
+                day[h] = 0
+            else:
+                day[h] = local_sum / active_mics
+        
+        days = np.vstack((days, day))
+        #print(days)
+    
+    #plotting
+    title = B0.color + "-average"
+    xlabel = "time 24 h clock"
+    ylabel = "date in feb"
+    zlabel = "number of birdsounds"
+
+    savepath = "figures/" + title + "-2D" +".png"
+
+    times = np.arange(24)#for all hours of the day
+    dates = B0.corresponding_day
+    TIMES, DATES = np.meshgrid(times, dates)
+    activities = days
+    
+    """
+    fig = plt.figure()
+    ax = plt.axes(projection='3d')
+    
+    ax.plot_surface(TIMES, DATES, activities, cmap='viridis', edgecolor=B0.color)
+    ax.set_title(title)
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
+    ax.set_zlabel(zlabel)
+    
+    ax.view_init(elev=10, azim=10)#look slightly off y
+    
+    """
+    #2D plot
+    fig2D = plt.figure()
+    ax2D = plt.axes()
+
+    day_sums = np.array([np.sum(act) for act in activities])
+    ax2D.plot(dates, day_sums, B0.color, linewidth = 4)
+    ax2D.set_facecolor('lightgray')
+    ax2D.grid()
+    ax2D.set_xlabel("date in feb")
+    ax2D.set_ylabel("average birdsound on "+ B0.color)
+    ax2D.set_title(title)
+
+
+    
+
+    plt.savefig(savepath)
+
+
+
+
+    """
+    print("this is days", days)
+
+    print(len(B0.activity_over_time))
+    print(len(B1.activity_over_time))
+    print(len(B2.activity_over_time))
+    print(len(B3.activity_over_time))
+    
+    print(B0.corresponding_day)
+    print(B1.corresponding_day)
+    print(B2.corresponding_day)
+    print(B3.corresponding_day)
+    """
+    
+    return 0
+
 
 white1_analyzer = BirdAnalyzer("white", "1")
 white2_analyzer = BirdAnalyzer("white", "2")
@@ -226,7 +323,7 @@ red4_analyzer.analyze_color()
 
 #white1_analyzer.erase_dummy_data()
 
-#print(white1_analyzer.correspondig_day)
+#print(white1_analyzer.corresponding_day)
 #print(white1_analyzer.activity_over_time)
 
 
@@ -250,6 +347,9 @@ red1_analyzer.plot_over_time(plot_colors[4])
 red2_analyzer.plot_over_time(plot_colors[5])
 red3_analyzer.plot_over_time(plot_colors[6])
 red4_analyzer.plot_over_time(plot_colors[7])
+
+plot_average(white1_analyzer, white2_analyzer, white3_analyzer, white4_analyzer)
+plot_average(red1_analyzer, red2_analyzer, red3_analyzer, red4_analyzer)
 
 
 """
