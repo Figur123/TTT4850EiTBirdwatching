@@ -52,6 +52,8 @@ class BirdAnalyzer:
 
         return string
 
+    #makes a 3D plot with hour (24 hour clock) on x axis, date in february on y axis
+    #and the occurance of birdsounds on z
     def plot_over_time(self, color):
         title = self.color + self.color_number
         xlabel = "time 24 h clock"
@@ -73,6 +75,8 @@ class BirdAnalyzer:
         ax.set_xlabel(xlabel)
         ax.set_ylabel(ylabel)
         ax.set_zlabel(zlabel)
+
+        ax.set_zlim(0,175)#scaling all to same 
 
         ax.view_init(elev=10, azim=10)#look directly at y
         plt.savefig(savepath)
@@ -193,7 +197,14 @@ class BirdAnalyzer:
         #clean some arrays
         self.activity_during_day = np.zeros(24)
 
-def plot_average(B0: BirdAnalyzer,B1: BirdAnalyzer,B2: BirdAnalyzer,B3: BirdAnalyzer):
+def create_plot():
+    #2D plot
+    fig2D = plt.figure()
+    ax2D = plt.axes()
+    
+    return fig2D, ax2D
+
+def plot_average(ax2D: plt.axes, B0: BirdAnalyzer,B1: BirdAnalyzer,B2: BirdAnalyzer,B3: BirdAnalyzer):
     B0.activity_over_time -= 2
     B1.activity_over_time -= 2
     B2.activity_over_time -= 2
@@ -233,100 +244,62 @@ def plot_average(B0: BirdAnalyzer,B1: BirdAnalyzer,B2: BirdAnalyzer,B3: BirdAnal
         
         days = np.vstack((days, day))
         #print(days)
-    
-    #plotting
-    title = B0.color + "-average"
-    xlabel = "time 24 h clock"
-    ylabel = "date in feb"
-    zlabel = "number of birdsounds"
-
-    savepath = "figures/" + title + "-2D" +".png"
 
     times = np.arange(24)#for all hours of the day
     dates = B0.corresponding_day
     TIMES, DATES = np.meshgrid(times, dates)
     activities = days
-    
-    """
-    fig = plt.figure()
-    ax = plt.axes(projection='3d')
-    
-    ax.plot_surface(TIMES, DATES, activities, cmap='viridis', edgecolor=B0.color)
-    ax.set_title(title)
-    ax.set_xlabel(xlabel)
-    ax.set_ylabel(ylabel)
-    ax.set_zlabel(zlabel)
-    
-    ax.view_init(elev=10, azim=10)#look slightly off y
-    
-    """
-    #2D plot
-    fig2D = plt.figure()
-    ax2D = plt.axes()
+
 
     day_sums = np.array([np.sum(act) for act in activities])
-    ax2D.plot(dates, day_sums, B0.color, linewidth = 4)
-    ax2D.set_facecolor('lightgray')
-    ax2D.grid()
-    ax2D.set_xlabel("date in feb")
-    ax2D.set_ylabel("average birdsound on "+ B0.color)
-    ax2D.set_title(title)
-
-
-    
-
-    plt.savefig(savepath)
-
-
-
-
-    """
-    print("this is days", days)
-
-    print(len(B0.activity_over_time))
-    print(len(B1.activity_over_time))
-    print(len(B2.activity_over_time))
-    print(len(B3.activity_over_time))
-    
-    print(B0.corresponding_day)
-    print(B1.corresponding_day)
-    print(B2.corresponding_day)
-    print(B3.corresponding_day)
-    """
+    ax2D.plot(dates, day_sums, B0.color, linewidth = 4, label = B0.color + " mics")
     
     return 0
 
+def save_plot(fig2D: plt.figure, ax2D: plt.axes):
+    #plotting
+    title = "average birdsounds on corresponding mic color"
+    xlabel = "date in feb"
+    ylabel = "average birdsounds"
+    zlabel = "number of birdsounds"
 
+    ax2D.set_facecolor('lightgray')
+    ax2D.grid()
+    ax2D.set_xlabel(xlabel)
+    ax2D.set_ylabel(ylabel)
+    fig2D.legend(facecolor = "darkgray", bbox_to_anchor = (0.9,0.8), loc = "center right", title = "color meaning")
+    
+    ax2D.set_title(title)
+
+    savepath = "figures/" + "BothColors-2D" +".png"
+    plt.savefig(savepath)
+    return 0
+
+#create the white analyzers
 white1_analyzer = BirdAnalyzer("white", "1")
 white2_analyzer = BirdAnalyzer("white", "2")
 white3_analyzer = BirdAnalyzer("white", "3")
 white4_analyzer = BirdAnalyzer("white", "4")
 
+#create the red analyzers
 red1_analyzer = BirdAnalyzer("red", "1")
 red2_analyzer = BirdAnalyzer("red", "2")
 red3_analyzer = BirdAnalyzer("red", "3")
 red4_analyzer = BirdAnalyzer("red", "4")
 
+#analyse white
 white1_analyzer.analyze_color()
 white2_analyzer.analyze_color()
 white3_analyzer.analyze_color()
 white4_analyzer.analyze_color()
 
+#analyse red
 red1_analyzer.analyze_color()
 red2_analyzer.analyze_color()
 red3_analyzer.analyze_color()
 red4_analyzer.analyze_color()
 
-#white2_analyzer.analyze_color()
-#white3_analyzer.analyze_color()
-#white4_analyzer.analyze_color()
-
-#white1_analyzer.erase_dummy_data()
-
-#print(white1_analyzer.corresponding_day)
-#print(white1_analyzer.activity_over_time)
-
-
+#used for coloring the 3D plots
 plot_colors = np.array([
             "#f7f7f7",
             "#d9d9d9",
@@ -337,33 +310,25 @@ plot_colors = np.array([
             "#de2d26",
             "#a50f15"
         ])
-
+        
+#white 3D plot
 white1_analyzer.plot_over_time(plot_colors[0])
 white2_analyzer.plot_over_time(plot_colors[1])
 white3_analyzer.plot_over_time(plot_colors[2])
 white4_analyzer.plot_over_time(plot_colors[3])
 
+#red 3D plot
 red1_analyzer.plot_over_time(plot_colors[4])
 red2_analyzer.plot_over_time(plot_colors[5])
 red3_analyzer.plot_over_time(plot_colors[6])
 red4_analyzer.plot_over_time(plot_colors[7])
 
-plot_average(white1_analyzer, white2_analyzer, white3_analyzer, white4_analyzer)
-plot_average(red1_analyzer, red2_analyzer, red3_analyzer, red4_analyzer)
+#2D collective -average plot
+fig2D, ax2D = create_plot()
+plot_average(ax2D, white1_analyzer, white2_analyzer, white3_analyzer, white4_analyzer)
+plot_average(ax2D, red1_analyzer, red2_analyzer, red3_analyzer, red4_analyzer)
+save_plot(fig2D, ax2D)
 
-
-"""
-colorBool = True
-dateBool = True
-while colorBool:
-    while dateBool:
-        dateBool = analyzer.advance_one_recording()
-        if dateBool and colorBool:
-            analyzer.analyze_file()
-    colorBool = analyzer.advance_color()
-    dateBool = True
-"""
-#analyzer.plot_over_time()
 
 
 
