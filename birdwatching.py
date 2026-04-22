@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pathlib
 from mpl_toolkits import mplot3d
+from matplotlib.ticker import MaxNLocator
 
 
 class BirdAnalyzer:
@@ -55,12 +56,18 @@ class BirdAnalyzer:
     #makes a 3D plot with hour (24 hour clock) on x axis, date in february on y axis
     #and the occurance of birdsounds on z
     def plot_over_time(self, color):
-        title = self.color + self.color_number
-        xlabel = "time 24 h clock"
-        ylabel = "date in feb"
-        zlabel = "number of birdsounds"
+        if (self.color == "red"):
+            col = "Rød "
+        elif (self.color == "white"):
+            col = "Hvit "
 
-        savepath = "figures/" + title +".png"
+        title = col + self.color_number
+        xlabel = "24 timers klokke"
+        ylabel = "Dato i Februar"
+        zlabel = "Antall fuglelyder"
+
+        path_title = self.color +self.color_number
+        savepath = "figures/" + path_title +".png"
 
         times = np.arange(24)#for all hours of the day
         dates = self.corresponding_day
@@ -78,8 +85,10 @@ class BirdAnalyzer:
 
         ax.set_zlim(0,175)#scaling all to same 
 
-        ax.view_init(elev=10, azim=10)#look directly at y
-        plt.savefig(savepath)
+        ax.view_init(elev=15, azim=45)#look directly at y
+
+        ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+        plt.savefig(savepath, bbox_inches='tight', pad_inches=0.25)
         #plt.show()
         return 0
 
@@ -252,22 +261,26 @@ def plot_average(ax2D: plt.axes, B0: BirdAnalyzer,B1: BirdAnalyzer,B2: BirdAnaly
 
 
     day_sums = np.array([np.sum(act) for act in activities])
-    ax2D.plot(dates, day_sums, B0.color, linewidth = 4, label = B0.color + " mics")
+
+    if (B0.color == "red"):
+        col = "Mikrofoner på tursti "
+    elif (B0.color == "white"):
+        col = "Mikrofoner utenfor tursti "
+    ax2D.plot(dates, day_sums, B0.color, linewidth = 4, label = col)
     
     return 0
 
 def save_plot(fig2D: plt.figure, ax2D: plt.axes):
     #plotting
-    title = "average birdsounds on corresponding mic color"
-    xlabel = "date in feb"
-    ylabel = "average birdsounds"
-    zlabel = "number of birdsounds"
+    title = "Gjennomsnittelig fugleydhendelser pr dag"
+    xlabel = "Dato i Februar"
+    ylabel = "Gjennomsnittelig antall fuglelyder"
 
     ax2D.set_facecolor('lightgray')
     ax2D.grid()
     ax2D.set_xlabel(xlabel)
     ax2D.set_ylabel(ylabel)
-    fig2D.legend(facecolor = "darkgray", bbox_to_anchor = (0.9,0.8), loc = "center right", title = "color meaning")
+    fig2D.legend(facecolor = "darkgray", bbox_to_anchor = (0.9,0.8), loc = "center right", title = "Fargebetydning")
     
     ax2D.set_title(title)
 
